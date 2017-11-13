@@ -1,0 +1,668 @@
+Products updation started...
+User :  
+User ID : 41
+Date : 22 Oct 2017 05:04 AM
+===========================================
+Product ID : 58
+Status : No Update
+===========================================
+Product ID : 59
+Status : No Update
+===========================================
+Product ID : 60
+Status : No Update
+===========================================
+Product ID : 61
+Status : No Update
+===========================================
+Product ID : 62
+Status : No Update
+===========================================
+Product ID : 63
+Status : No Update
+===========================================
+Product ID : 64
+Status : No Update
+===========================================
+Product ID : 65
+Status : No Update
+===========================================
+Product ID : 66
+Status : No Update
+===========================================
+Product ID : 67
+Status : No Update
+===========================================
+Product ID : 68
+Status : No Update
+===========================================
+Product ID : 69
+Status : No Update
+===========================================
+Product ID : 70
+Status : No Update
+===========================================
+Product ID : 71
+Status : No Update
+===========================================
+Product ID : 72
+Status : No Update
+===========================================
+Product ID : 73
+Status : No Update
+===========================================
+Product ID : 74
+Status : No Update
+===========================================
+Product ID : 75
+Status : No Update
+===========================================
+Product ID : 76
+Status : No Update
+===========================================
+Product ID : 77
+Status : No Update
+===========================================
+Product ID : 78
+Status : No Update
+===========================================
+Product ID : 79
+Status : No Update
+===========================================
+Product ID : 80
+Status : No Update
+===========================================
+Product ID : 81
+Status : No Update
+===========================================
+Product ID : 82
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 84
+Status : No Update
+===========================================
+Product ID : 85
+Status : No Update
+===========================================
+Product ID : 86
+Status : No Update
+===========================================
+Product ID : 87
+Status : No Update
+===========================================
+Product ID : 88
+Status : No Update
+===========================================
+Product ID : 89
+Status : No Update
+===========================================
+Product ID : 90
+Status : No Update
+===========================================
+Product ID : 91
+Status : No Update
+===========================================
+Product ID : 92
+Status : No Update
+===========================================
+Product ID : 93
+Status : No Update
+===========================================
+Product ID : 94
+Status : No Update
+===========================================
+Product ID : 95
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 98
+Status : No Update
+===========================================
+Product ID : 99
+Status : No Update
+===========================================
+Product ID : 100
+Status : No Update
+===========================================
+Product ID : 101
+Status : No Update
+===========================================
+Product ID : 102
+Status : No Update
+===========================================
+Product ID : 103
+Status : No Update
+===========================================
+Product ID : 104
+Status : No Update
+===========================================
+Product ID : 105
+Status : No Update
+===========================================
+Product ID : 106
+Status : No Update
+===========================================
+Product ID : 107
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 109
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 111
+Status : No Update
+===========================================
+Product ID : 112
+Status : No Update
+===========================================
+Product ID : 113
+Status : No Update
+===========================================
+Product ID : 114
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 116
+Status : No Update
+===========================================
+Product ID : 117
+Status : No Update
+===========================================
+Product ID : 118
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 120
+Status : No Update
+===========================================
+Product ID : 121
+Status : No Update
+===========================================
+Product ID : 122
+Status : No Update
+===========================================
+Product ID : 123
+Status : No Update
+===========================================
+Product ID : 124
+Status : No Update
+===========================================
+Product ID : 125
+Status : No Update
+===========================================
+Product ID : 126
+Status : No Update
+===========================================
+Product ID : 127
+Status :  Price, Image updated
+===========================================
+Product ID : 128
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 130
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 132
+Status : No Update
+===========================================
+Product ID : 133
+Status : No Update
+===========================================
+Product ID : 134
+Status : No Update
+===========================================
+Product ID : 135
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 138
+Status : No Update
+===========================================
+Product ID : 139
+Status : No Update
+===========================================
+Product ID : 140
+Status : No Update
+===========================================
+Product ID : 141
+Status : No Update
+===========================================
+Product ID : 142
+Status : No Update
+===========================================
+Product ID : 143
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 145
+Status : No Update
+===========================================
+Product ID : 146
+Status : No Update
+===========================================
+Product ID : 147
+Status : No Update
+===========================================
+Product ID : 148
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 150
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 153
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 157
+Status : No Update
+===========================================
+Product ID : 158
+Status : No Update
+===========================================
+Product ID : 159
+Status : No Update
+===========================================
+Product ID : 160
+Status : No Update
+===========================================
+Product ID : 161
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 163
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 167
+Status : Name updated
+===========================================
+Product ID : 168
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 170
+Status : No Update
+===========================================
+Product ID : 171
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 175
+Status : No Update
+===========================================
+Product ID : 176
+Status :  Price, Image updated
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 179
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 183
+Status : No Update
+===========================================
+Product ID : 184
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 186
+Status : No Update
+===========================================
+Product ID : 187
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 189
+Status : No Update
+===========================================
+Product ID : 190
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 192
+Status : No Update
+===========================================
+Product ID : 193
+Status : No Update
+===========================================
+Product ID : 194
+Status : No Update
+===========================================
+Product ID : 195
+Status : No Update
+===========================================
+Product ID : 196
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 198
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 201
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 207
+Status : No Update
+===========================================
+Product ID : 208
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 210
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 214
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 219
+Status : No Update
+===========================================
+Product ID : 220
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 222
+Status : No Update
+===========================================
+Product ID : 223
+Status : No Update
+===========================================
+Product ID : 224
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 226
+Status :  Image updated
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 229
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 236
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 238
+Status : No Update
+===========================================
+Product ID : 239
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 241
+Status :  Price updated
+===========================================
+Product ID : 242
+Status : No Update
+===========================================
+Product ID : 243
+Status : No Update
+===========================================
+Product ID : 244
+Status : No Update
+===========================================
+Product ID : 245
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 249
+Status :  Price updated
+===========================================
+Product ID : 250
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 252
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 254
+Status : No Update
+===========================================
+Product ID : 255
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 257
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 265
+Status : No Update
+===========================================
+Product ID : 266
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 268
+Status : No Update
+===========================================
+Product ID : 269
+Status : No Update
+===========================================
+Product ID : 270
+Status :  Price updated
+===========================================
+No data found or Invalid API configuration
+Product ID : 272
+Status :  Price updated
+===========================================
+No data found or Invalid API configuration
+Product ID : 274
+Status : No Update
+===========================================
+Product ID : 275
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 279
+Status : Name, Price updated
+===========================================
+Product ID : 280
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 282
+Status :  Price updated
+===========================================
+Product ID : 283
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 286
+Status :  Price updated
+===========================================
+No data found or Invalid API configuration
+Product ID : 288
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 292
+Status : No Update
+===========================================
+Product ID : 293
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 295
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 301
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 303
+Status :  Price updated
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 315
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 318
+Status : No Update
+===========================================
+Product ID : 319
+Status : Name updated
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 323
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 326
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 328
+Status :  Price updated
+===========================================
+Product ID : 329
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 336
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 338
+Status :  Price, Image updated
+===========================================
+No data found or Invalid API configuration
+Product ID : 340
+Status :  Price updated
+===========================================
+Product ID : 341
+Status :  Price updated
+===========================================
+Product ID : 342
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 350
+Status : No Update
+===========================================
+Product ID : 351
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 354
+Status : No Update
+===========================================
+Product ID : 355
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+Product ID : 357
+Status : No Update
+===========================================
+Product ID : 358
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 361
+Status :  Price, Image updated
+===========================================
+No data found or Invalid API configuration
+Product ID : 363
+Status :  Price, Image updated
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 372
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+No data found or Invalid API configuration
+Product ID : 378
+Status : No Update
+===========================================
+No data found or Invalid API configuration
+=================== Completed ====================.

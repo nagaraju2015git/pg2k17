@@ -1,0 +1,26 @@
+Products updation started...
+User :  
+User ID : 41
+Date : 22 Oct 2017 07:37 AM
+===========================================
+Product ID : 80
+Product Name : PAIGE Womens Skyline Ankle Peg Jeans with Uneven Hem, Pryor Destructed, 31
+No data found or Invalid API configuration
+===========================================
+Product ID : 110
+Product Name : DL1961 Mens Duke Slim Fit Chino, Aster, 31
+No data found or Invalid API configuration
+===========================================
+Product ID : 147
+Product Name : Fossil Mens FS4552 Machine Black Stainless Steel Chronograph Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 189
+Product Name : New Balance Mens 1400 Classic Running Shoe (8 D(M) US, Black/Burgundy)
+No data found or Invalid API configuration
+===========================================
+Product ID : 191
+Product Name : New Balance M770 Version 2 Mens Running Shoe, Size: 10 Width: 2E Color: Admiral Red/Black
+No data found or Invalid API configuration
+===========================================
+Exit

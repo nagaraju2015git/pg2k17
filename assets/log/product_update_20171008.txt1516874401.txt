@@ -1,0 +1,17 @@
+Products updating...
+User :  
+User ID : 41
+Date : 08 Oct 2017 03:25 PM
+===========================================
+Product ID : 380
+Status :  Price updated
+===========================================
+Product ID : 381
+Status : No Update
+===========================================
+Product ID : 382
+Status :  Price updated
+===========================================
+Product ID : 383
+Status : No Update
+===========================================

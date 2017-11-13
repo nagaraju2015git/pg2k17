@@ -1,0 +1,350 @@
+Products updation started...
+User :  
+User ID : 41
+Date : 22 Oct 2017 07:36 AM
+===========================================
+Product ID : 80
+Product Name : PAIGE Womens Skyline Ankle Peg Jeans with Uneven Hem, Pryor Destructed, 31
+No data found or Invalid API configuration
+===========================================
+Product ID : 95
+Product Name : Nike Short Sleeve Legend - Grey - Small
+No data found or Invalid API configuration
+===========================================
+Product ID : 99
+Product Name : Nike Mens Sportswear Pull Over Club Hooded Sweatshirt - Large - Black/White
+Status :  Price updated
+===========================================
+Product ID : 110
+Product Name : DL1961 Mens Duke Slim Fit Chino, Aster, 31
+No data found or Invalid API configuration
+===========================================
+Product ID : 127
+Product Name : Hugo Boss 1513494 Brown 44mm Stainless Steel Navigator Mens Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 133
+Product Name : BURBERRY MENS THE UTILITARIAN WATCH BLACK LEATHER BU7867
+No data found or Invalid API configuration
+===========================================
+Product ID : 147
+Product Name : Fossil Mens FS4552 Machine Black Stainless Steel Chronograph Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 152
+Product Name : Fossil Mens Grant Sport Quartz Stainless Steel and Leather Casual Watch, Color:Brown (Model: FS5343)
+Status :  Price updated
+===========================================
+Product ID : 158
+Product Name : MICHAEL KORS GARNER ladies watch MK6408
+Status :  Price updated
+===========================================
+Product ID : 171
+Product Name : Nike Air Max Tailwind 8 Mens Running Shoes (11 D(M) US)
+Status :  Price updated
+===========================================
+Product ID : 175
+Product Name : ASICS Mens Gel Venture 5 Running Shoe, Silver/Light Grey/Royal, 10 4E US
+No data found or Invalid API configuration
+===========================================
+Product ID : 178
+Product Name : ASICS Mens Gt-1000 5 Running Shoe, Black/Onyx/Black, 11.5 4E US
+No data found or Invalid API configuration
+===========================================
+Product ID : 179
+Product Name : ASICS Mens Gel-Nimbus 19 Running Shoe, Carbon/White/Silver, 14 2E US
+No data found or Invalid API configuration
+===========================================
+Product ID : 185
+Product Name : adidas Performance Mens Alphabounce 1 M Running Shoe, Grey/Utility Black/Energy, 8.5 M US
+No data found or Invalid API configuration
+===========================================
+Product ID : 187
+Product Name : New Balance Mens MZANTBS3, Blue/Black, 14 D US
+Status : No Update
+===========================================
+Product ID : 189
+Product Name : New Balance Mens 1400 Classic Running Shoe (8 D(M) US, Black/Burgundy)
+No data found or Invalid API configuration
+===========================================
+Product ID : 191
+Product Name : New Balance M770 Version 2 Mens Running Shoe, Size: 10 Width: 2E Color: Admiral Red/Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 196
+Product Name : BOSS Orange by Hugo Boss Mens Cultroot Leather Lace up Derby Work Shoe, Dark Brown, 10 N US
+No data found or Invalid API configuration
+===========================================
+Product ID : 197
+Product Name : Sperry Top-Sider Mens A/O 2-Eye Oxford, Beige (Tan), 9.5 2E US
+No data found or Invalid API configuration
+===========================================
+Product ID : 200
+Product Name : Sperry Top-Sider Mens Quest 2 Eye Boat Shoe, Navy, 9 M US
+No data found or Invalid API configuration
+===========================================
+Product ID : 203
+Product Name : Sperry Top-Sider Mens A/O 2 Eye Boat Shoe,Brown,7.5 M US
+No data found or Invalid API configuration
+===========================================
+Product ID : 206
+Product Name : Vans Mens SK8-Hi MTE Black/Tweed Sneaker - 8
+Status : No Update
+===========================================
+Product ID : 207
+Product Name : Vans - Unisex-Adult Old Skool Shoes, Size: 11 D(M) US Mens / 12.5 B(M) US Womens, Color: (C&L) Dress Blues/Material Mix
+No data found or Invalid API configuration
+===========================================
+Product ID : 210
+Product Name : Vans Mens Atwood (Canvas) White/White Skate Shoe 9.5 Men US
+No data found or Invalid API configuration
+===========================================
+Product ID : 212
+Product Name : Vans Mens Chukka Low Pro (8.0 D(M) US Mens, Frost Gray/ Gum)
+Status : No Update
+===========================================
+Product ID : 213
+Product Name : Splendid Womens Festive Flannel Pj Set, Dusty Plaid, Medium
+Status : No Update
+===========================================
+Product ID : 215
+Product Name : Splendid Womens Woven Pj Set, Tropical Splash Floral, X-Small
+No data found or Invalid API configuration
+===========================================
+Product ID : 218
+Product Name : Splendid Womens Classic Pajama Set, Tropical Fleur, Small
+No data found or Invalid API configuration
+===========================================
+Product ID : 221
+Product Name : Splendid Womens Tank, Spring Shower Stripe, Large
+No data found or Invalid API configuration
+===========================================
+Product ID : 224
+Product Name : Splendid Womens 1 x 1 X Front Tee, Black, S
+Status : No Update
+===========================================
+Product ID : 229
+Product Name : Splendid Womens Ss Slub V Neck with Ruffle, Heritage Blue, M
+No data found or Invalid API configuration
+===========================================
+Product ID : 235
+Product Name : Splendid Womens Bailey Sweater, Black, XS
+No data found or Invalid API configuration
+===========================================
+Product ID : 242
+Product Name : Splendid Womens Rayon 2 x 1 Rib Cross Back Dress, Black, M
+No data found or Invalid API configuration
+===========================================
+Product ID : 248
+Product Name : Splendid Womens Sleeveless Dress, Pink Beige, Large
+No data found or Invalid API configuration
+===========================================
+Product ID : 249
+Product Name : Splendid Womens Island Stamp Printed Dress, White, M
+Status : No Update
+===========================================
+Product ID : 250
+Product Name : Splendid Womens Rayon Jersey Hilo Dress, Black, M
+No data found or Invalid API configuration
+===========================================
+Product ID : 254
+Product Name : Banana Republic Womens Mid-Rise Skinny Jean Rinse Dark Blue 28/6
+No data found or Invalid API configuration
+===========================================
+Product ID : 257
+Product Name : Banana Republic Womens Slim Boot-cut Jean Medium Wash Dark Blue 27/4R Regular
+Status : No Update
+===========================================
+Product ID : 261
+Product Name : Banana Republic Mens Vintage Straight Fit Jeans Light Blue Wash 36W x 32L
+Status : No Update
+===========================================
+Product ID : 265
+Product Name : Patagonia Men’s Hi Loft Hooded Down Jacket L Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 268
+Product Name : Patagonia Down Sweater Jacket - Mens Electron Blue, L
+Status : No Update
+===========================================
+Product ID : 274
+Product Name : Patagonia womens Downtown Jacket (L, Pebble Gray)
+No data found or Invalid API configuration
+===========================================
+Product ID : 275
+Product Name : Patagonia Down Sweater Insulated Jacket - Womens Real Red Large
+Status : No Update
+===========================================
+Product ID : 277
+Product Name : Patagonia Womens Down Sweater Jacket (Medium, Feather Grey)
+No data found or Invalid API configuration
+===========================================
+Product ID : 278
+Product Name : Patagonia Womens Crosstrek Fleece Jacket (L)
+No data found or Invalid API configuration
+===========================================
+Product ID : 287
+Product Name : The North Face Womens Aconcagua Jacket - TNF Black Disrupt Camo - S
+No data found or Invalid API configuration
+===========================================
+Product ID : 289
+Product Name : The North Face Womens Glacier 1/4 Zip - Harbor Blue Heather - S
+Status : No Update
+===========================================
+Product ID : 294
+Product Name : The North Face TKA Glacier 1/4 Zip - Centennial Red - 3XL
+No data found or Invalid API configuration
+===========================================
+Product ID : 295
+Product Name : The North Face Mens Venture 2 Jacket (X-Large, Asphalt Grey/Falcon Brown)
+No data found or Invalid API configuration
+===========================================
+Product ID : 297
+Product Name : The North Face Mens Aconcagua Jacket - Golden Brown - XXL
+No data found or Invalid API configuration
+===========================================
+Product ID : 302
+Product Name : Sony XBR-43X800E 43-Inch 4K Ultra HD Smart LED TV (2017 Model)
+Status :  Price updated
+===========================================
+Product ID : 303
+Product Name : Sony XBR55X850D 55-Inch 4K Ultra HD Smart TV (2016 model)
+Status : No Update
+===========================================
+Product ID : 310
+Product Name : Apple iPad mini 4 (128GB, Wi-Fi, Space Gray)
+No data found or Invalid API configuration
+===========================================
+Product ID : 312
+Product Name : Apple Watch Nike+ 38mm Silver Aluminum Case Pure Platinum/White Nike Sport Band
+No data found or Invalid API configuration
+===========================================
+Product ID : 315
+Product Name : Garmin Approach S4 GPS Golf Watch - White
+No data found or Invalid API configuration
+===========================================
+Product ID : 316
+Product Name : Garmin Approach S20 Golf Watch - Midnight Teal
+No data found or Invalid API configuration
+===========================================
+Product ID : 317
+Product Name : Garmin Approach S60 GPS golf watch with black silicone band
+No data found or Invalid API configuration
+===========================================
+Product ID : 318
+Product Name : Garmin Approach S2 GPS Golf Watch with Worldwide Courses (Black)
+Status : No Update
+===========================================
+Product ID : 319
+Product Name : Bose QuietComfort 35 (Series I) Wireless Headphones, Noise Cancelling - Silver
+No data found or Invalid API configuration
+===========================================
+Product ID : 320
+Product Name : Bose QuietComfort 25 Acoustic Noise Cancelling Headphones for Apple devices - Black (wired, 3.5mm)
+No data found or Invalid API configuration
+===========================================
+Product ID : 321
+Product Name : Bose QuietComfort 20 Acoustic Noise Cancelling Headphones, Apple Devices, Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 322
+Product Name : Bose SoundTrue around-ear headphones II - Apple devices, Charcoal
+No data found or Invalid API configuration
+===========================================
+Product ID : 323
+Product Name : Bose Quietcontrol 30 Wireless Headphones, Noise Cancelling - Black
+Status : No Update
+===========================================
+Product ID : 325
+Product Name : Kate Spade Stacy Newbury Lane Wallet (Geranium)
+No data found or Invalid API configuration
+===========================================
+Product ID : 327
+Product Name : Kate Spade New York Laurel Way Neda Saffiano Leather Zip Around Wallet (Black)
+Status : No Update
+===========================================
+Product ID : 329
+Product Name : Kate Spade New York Chester Street Neda Pebbled Leather Zip Around Wallet (Black)
+Status :  Price updated
+===========================================
+Product ID : 331
+Product Name : Kate Spade New York Womens Glitter Clear Phone Case for iPhone 6 Gold Cellphone Case
+No data found or Invalid API configuration
+===========================================
+Product ID : 332
+Product Name : Kate Spade New York Womens Bonjour Phone Case for iPhone 7 Plus Clear Multi Cellphone Case
+No data found or Invalid API configuration
+===========================================
+Product ID : 335
+Product Name : Kate Spade New York Womens Charmine/S Havana Pink/Brown Gradient Lens Sunglasses
+No data found or Invalid API configuration
+===========================================
+Product ID : 336
+Product Name : Kate Spade Womens Jenae/Ps Polarized Square Sunglasses, Blue Black/Gray Polarized, 53 mm
+Status : No Update
+===========================================
+Product ID : 344
+Product Name : kate spade new york Clear/Silver Drop Earrings
+Status : No Update
+===========================================
+Product ID : 348
+Product Name : kate spade new york Small Red Stud Earrings
+No data found or Invalid API configuration
+===========================================
+Product ID : 349
+Product Name : kate spade new york Flower White Stud Earrings
+No data found or Invalid API configuration
+===========================================
+Product ID : 350
+Product Name : kate spade new york Drop Cream Stud Earrings
+No data found or Invalid API configuration
+===========================================
+Product ID : 351
+Product Name : RAY-BAN RB 3025 AVIATOR SUNGLASSES (58 mm, 003/3F SILVER CRYSTAL WHITE/GRADIENT BLUE)
+Status : No Update
+===========================================
+Product ID : 352
+Product Name : Ray-Ban Unisex RB4175 Oversized Clubmaster 57mm Black/Polarized Blue Green Gradient Sunglasses
+Status : No Update
+===========================================
+Product ID : 353
+Product Name : Ray-Ban RB2132 New Wayfarer Sunglasses Unisex (Matte Black Frame Solid Black G15 Lens, 52)
+No data found or Invalid API configuration
+===========================================
+Product ID : 356
+Product Name : Ray-Ban Mens RB3498 Rectangular Sunglasses, Black & Green, 61 mm
+No data found or Invalid API configuration
+===========================================
+Product ID : 357
+Product Name : Ray-Ban RB4165 JUSTIN COLOR MIX 55mm Black Rubber Red Mirror Sunglasses, 55mm
+No data found or Invalid API configuration
+===========================================
+Product ID : 359
+Product Name : Tory Burch Womens 0TY9050 Dark Tortoise/Gold Metail Details/Brown Gradient Sunglasses
+Status :  Price updated
+===========================================
+Product ID : 361
+Product Name : Tory Burch Womens 0TY9047 Royal Navy/Pearl Navy Tortoise/Blue Grey Gradient Sunglasses
+No data found or Invalid API configuration
+===========================================
+Product ID : 364
+Product Name : Tory Burch Womens 0TY7087 Pearl Tokyo Tort/Green Gradient Sunglasses
+No data found or Invalid API configuration
+===========================================
+Product ID : 367
+Product Name : Echo Show - Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 370
+Product Name : Fitbit Charge 2 Heart Rate + Fitness Wristband, Black, Large (US Version)
+No data found or Invalid API configuration
+===========================================
+Product ID : 376
+Product Name : Fitbit One Wireless Activity Plus Sleep Tracker, Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 379
+Product Name : PlayStation 4 Pro 1TB Limited Edition Console - Destiny 2 Bundle
+No data found or Invalid API configuration
+===========================================
+=================== Completed ====================.

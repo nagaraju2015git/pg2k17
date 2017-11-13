@@ -1,0 +1,66 @@
+Products updation started...
+User :  
+User ID : 41
+Date : 22 Oct 2017 07:37 AM
+===========================================
+Product ID : 110
+Product Name : DL1961 Mens Duke Slim Fit Chino, Aster, 31
+No data found or Invalid API configuration
+===========================================
+Product ID : 147
+Product Name : Fossil Mens FS4552 Machine Black Stainless Steel Chronograph Watch
+Status : No Update
+===========================================
+Product ID : 210
+Product Name : Vans Mens Atwood (Canvas) White/White Skate Shoe 9.5 Men US
+No data found or Invalid API configuration
+===========================================
+Product ID : 235
+Product Name : Splendid Womens Bailey Sweater, Black, XS
+No data found or Invalid API configuration
+===========================================
+Product ID : 274
+Product Name : Patagonia womens Downtown Jacket (L, Pebble Gray)
+Status : No Update
+===========================================
+Product ID : 277
+Product Name : Patagonia Womens Down Sweater Jacket (Medium, Feather Grey)
+Status : No Update
+===========================================
+Product ID : 278
+Product Name : Patagonia Womens Crosstrek Fleece Jacket (L)
+No data found or Invalid API configuration
+===========================================
+Product ID : 294
+Product Name : The North Face TKA Glacier 1/4 Zip - Centennial Red - 3XL
+Status : No Update
+===========================================
+Product ID : 312
+Product Name : Apple Watch Nike+ 38mm Silver Aluminum Case Pure Platinum/White Nike Sport Band
+No data found or Invalid API configuration
+===========================================
+Product ID : 315
+Product Name : Garmin Approach S4 GPS Golf Watch - White
+No data found or Invalid API configuration
+===========================================
+Product ID : 320
+Product Name : Bose QuietComfort 25 Acoustic Noise Cancelling Headphones for Apple devices - Black (wired, 3.5mm)
+No data found or Invalid API configuration
+===========================================
+Product ID : 321
+Product Name : Bose QuietComfort 20 Acoustic Noise Cancelling Headphones, Apple Devices, Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 361
+Product Name : Tory Burch Womens 0TY9047 Royal Navy/Pearl Navy Tortoise/Blue Grey Gradient Sunglasses
+No data found or Invalid API configuration
+===========================================
+Product ID : 364
+Product Name : Tory Burch Womens 0TY7087 Pearl Tokyo Tort/Green Gradient Sunglasses
+No data found or Invalid API configuration
+===========================================
+Product ID : 370
+Product Name : Fitbit Charge 2 Heart Rate + Fitness Wristband, Black, Large (US Version)
+No data found or Invalid API configuration
+===========================================
+=================== Completed ====================.

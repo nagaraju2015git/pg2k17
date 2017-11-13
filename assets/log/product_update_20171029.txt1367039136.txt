@@ -1,0 +1,302 @@
+Products updation started...
+User :  
+User ID : 41
+Date : 29 Oct 2017 04:48 PM
+===========================================
+Product ID : 82
+Product Name : Paige Womens Hoxton Denim High-Waist Skinny Jeans Blue 24
+No data found or Invalid API configuration
+===========================================
+Product ID : 106
+Product Name : Banana Republic Mens Aiden-Fit Chino Pants True navy, 36W x 30L
+Status : No Update
+===========================================
+Product ID : 121
+Product Name : Hugo Boss Hugo Boss 1513440 Gray / Silver Stainless Steel Analog Quartz Mens Watch
+Status : No Update
+===========================================
+Product ID : 132
+Product Name : Burberry Womens BU9101 Large Check Stainless Steel Bracelet Watch
+Status :  Price updated
+===========================================
+Product ID : 135
+Product Name : Burberry Black Dial Black Fabric Strap Mens Watch BU9362
+Status : No Update
+===========================================
+Product ID : 149
+Product Name : Fossil Mens Machine Quartz Stainless Steel Casual Watch, Color:Silver-Toned (Model: FS5340)
+Status :  Image updated
+===========================================
+Product ID : 158
+Product Name : MICHAEL KORS GARNER ladies watch MK6408
+Status :  Price, Image updated
+===========================================
+Product ID : 164
+Product Name : Michael Kors Womens Quartz Stainless Steel Casual Watch, Color:Silver-Toned (Model: MK6498)
+Status :  Price updated
+===========================================
+Product ID : 170
+Product Name : Mens Nike FS Lite Run 4 Running Shoe Pure Platinum/Metallic Silver/Black Size 15 M US
+No data found or Invalid API configuration
+===========================================
+Product ID : 179
+Product Name : ASICS Mens Gel-Nimbus 19 Running Shoe, Carbon/White/Silver, 14 2E US
+Status : No Update
+===========================================
+Product ID : 184
+Product Name : Adidas Performance Speed Trainer 2 Training Shoe, Black/carbon Metallic/collegiate Gold, 4 M Us, White/Carbon Metallic/Clear Onix, 14 D(M) US
+No data found or Invalid API configuration
+===========================================
+Product ID : 187
+Product Name : New Balance Mens MZANTBS3, Blue/Black, 14 D US
+Status : No Update
+===========================================
+Product ID : 189
+Product Name : New Balance Mens 1400 Classic Running Shoe (8 D(M) US, Black/Burgundy)
+Status : No Update
+===========================================
+Product ID : 205
+Product Name : Vans Mens Classic Slip On (Suede & Suiting) Skateboarding Shoes (9.5 B(M) US Women / 8 D(M) US Men, DRESS BLUES)
+Status : No Update
+===========================================
+Product ID : 210
+Product Name : Vans Mens Atwood (Canvas) White/White Skate Shoe 9.5 Men US
+No data found or Invalid API configuration
+===========================================
+Product ID : 223
+Product Name : Splendid Womens Sylvie-Rib-Polo, H.Grey/Bone, L
+Status : No Update
+===========================================
+Product ID : 231
+Product Name : Splendid Womens 1 x 1 Venice Stripe Off the Shoulder, Cape Red, L
+Status :  Price, Image updated
+===========================================
+Product ID : 232
+Product Name : Splendid Womens Thermal Wrap Hooded Cardigan, Black, Large
+Status : No Update
+===========================================
+Product ID : 233
+Product Name : Splendid Womens Active Zip up, Black, M
+No data found or Invalid API configuration
+===========================================
+Product ID : 236
+Product Name : Splendid Womens Cardigan, Navy, Medium
+Status : No Update
+===========================================
+Product ID : 237
+Product Name : Splendid Womens Soft Cotton Gray Cold Shoulder Hoodie, Marble Gray, M
+Status :  Image updated
+===========================================
+Product ID : 238
+Product Name : Splendid Womens Raglan Pullover, H. Natural, L
+Status :  Price updated
+===========================================
+Product ID : 240
+Product Name : Splendid Womens Confetti Active Zip up, H.Grey, M
+Status : No Update
+===========================================
+Product ID : 250
+Product Name : Splendid Womens Rayon Jersey Hilo Dress, Black, M
+No data found or Invalid API configuration
+===========================================
+Product ID : 252
+Product Name : Banana Republic Womens High-Rise Skinny Jean Rinse 27/4
+No data found or Invalid API configuration
+===========================================
+Product ID : 258
+Product Name : Banana Republic Mens Straight Leg Fit Denim Jeans Light Blue Wash 33x30
+Status : No Update
+===========================================
+Product ID : 260
+Product Name : Banana Republic Mens Sueded Slim-Fit Stretch Jean Washed Indigo, 33X30
+Status : No Update
+===========================================
+Product ID : 261
+Product Name : Banana Republic Mens Vintage Straight Fit Jeans Light Blue Wash 36W x 32L
+Status : No Update
+===========================================
+Product ID : 265
+Product Name : Patagonia Men’s Hi Loft Hooded Down Jacket L Black
+Status :  Price updated
+===========================================
+Product ID : 271
+Product Name : Patagonia Mens Baggies Jacket (Medium, Navy Blue)
+Status :  Price updated
+===========================================
+Product ID : 273
+Product Name : Patagonia Womens Re-tool Snap-T Pullover
+Status : No Update
+===========================================
+Product ID : 275
+Product Name : Patagonia Down Sweater Insulated Jacket - Womens Real Red Large
+No data found or Invalid API configuration
+===========================================
+Product ID : 277
+Product Name : Patagonia Womens Down Sweater Jacket (Medium, Feather Grey)
+No data found or Invalid API configuration
+===========================================
+Product ID : 278
+Product Name : Patagonia Womens Crosstrek Fleece Jacket (L)
+No data found or Invalid API configuration
+===========================================
+Product ID : 283
+Product Name : The North Face womens OSO HOODIE NF0A2TEBJK3_L - TNF BLACK
+Status : No Update
+===========================================
+Product ID : 285
+Product Name : The North Face Womens Apex Elevation Jacket - TNF Black/TNF Black - M
+No data found or Invalid API configuration
+===========================================
+Product ID : 286
+Product Name : The North Face Womens Resolve 2 Jacket - Provincial Blue - S
+No data found or Invalid API configuration
+===========================================
+Product ID : 287
+Product Name : The North Face Womens Aconcagua Jacket - TNF Black Disrupt Camo - S
+No data found or Invalid API configuration
+===========================================
+Product ID : 288
+Product Name : The North Face Womens Mossbud Swirl Triclimate Jacket - Dark Eggplant Purple/Black Plum - S
+Status : No Update
+===========================================
+Product ID : 289
+Product Name : The North Face Womens Glacier 1/4 Zip - Harbor Blue Heather - S
+Status : No Update
+===========================================
+Product ID : 290
+Product Name : The North Face Womens Aconcagua Parka - Asphalt Grey - L
+Status : No Update
+===========================================
+Product ID : 294
+Product Name : The North Face TKA Glacier 1/4 Zip - Centennial Red - 3XL
+Status : No Update
+===========================================
+Product ID : 295
+Product Name : The North Face Mens Venture 2 Jacket (X-Large, Asphalt Grey/Falcon Brown)
+Status :  Price updated
+===========================================
+Product ID : 298
+Product Name : The North Face Apex Flex GTX Jacket Men (Large, TNF Black/Centennial Red)
+Status : No Update
+===========================================
+Product ID : 299
+Product Name : The North Face Resolve Jacket Mens Sequoia Red/Asphalt Grey Large
+No data found or Invalid API configuration
+===========================================
+Product ID : 300
+Product Name : Samsung Electronics UN32M5300AFXZA Flat 32 LED 1920 x 1080p 5 Series SmartTV 2017
+Status :  Price, Image updated
+===========================================
+Product ID : 303
+Product Name : Sony XBR55X850D 55-Inch 4K Ultra HD Smart TV (2016 model)
+Status :  Price updated
+===========================================
+Product ID : 313
+Product Name : Garmin Approach S20 Golf Watch - Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 315
+Product Name : Garmin Approach S4 GPS Golf Watch - White
+Status :  Price updated
+===========================================
+Product ID : 318
+Product Name : Garmin Approach S2 GPS Golf Watch with Worldwide Courses (Black)
+No data found or Invalid API configuration
+===========================================
+Product ID : 319
+Product Name : Bose QuietComfort 35 (Series I) Wireless Headphones, Noise Cancelling - Silver
+Status : No Update
+===========================================
+Product ID : 320
+Product Name : Bose QuietComfort 25 Acoustic Noise Cancelling Headphones for Apple devices - Black (wired, 3.5mm)
+No data found or Invalid API configuration
+===========================================
+Product ID : 321
+Product Name : Bose QuietComfort 20 Acoustic Noise Cancelling Headphones, Apple Devices, Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 322
+Product Name : Bose SoundTrue around-ear headphones II - Apple devices, Charcoal
+No data found or Invalid API configuration
+===========================================
+Product ID : 324
+Product Name : Kate Spade Laurel Way Neda Zip Around Wallet, Antilesbubble
+Status : No Update
+===========================================
+Product ID : 330
+Product Name : Kate Spade New York Laurel Way Stacy wallet Crab Red
+Status :  Price updated
+===========================================
+Product ID : 332
+Product Name : Kate Spade New York Womens Bonjour Phone Case for iPhone 7 Plus Clear Multi Cellphone Case
+Status : No Update
+===========================================
+Product ID : 333
+Product Name : Kate Spade New York Womens Le Pavillion Phone Case for iPhone 7 Plus Clear Multi Cellphone Case
+Status : No Update
+===========================================
+Product ID : 334
+Product Name : Kate Spade New York Womens Larabee Dot Mini Stud Phone Case for iPhone 7 Cream Multi Cellphone Case
+Status :  Price updated
+===========================================
+Product ID : 343
+Product Name : kate spade new york Essentials Jet Small Square Studs
+No data found or Invalid API configuration
+===========================================
+Product ID : 349
+Product Name : kate spade new york Flower White Stud Earrings
+Status : No Update
+===========================================
+Product ID : 351
+Product Name : RAY-BAN RB 3025 AVIATOR SUNGLASSES (58 mm, 003/3F SILVER CRYSTAL WHITE/GRADIENT BLUE)
+No data found or Invalid API configuration
+===========================================
+Product ID : 352
+Product Name : Ray-Ban Unisex RB4175 Oversized Clubmaster 57mm Black/Polarized Blue Green Gradient Sunglasses
+Status :  Image updated
+===========================================
+Product ID : 353
+Product Name : Ray-Ban RB2132 New Wayfarer Sunglasses Unisex (Matte Black Frame Solid Black G15 Lens, 52)
+No data found or Invalid API configuration
+===========================================
+Product ID : 354
+Product Name : Ray-Ban Mens RB3183 Sunglasses (Shiny Black Frame Polarized Solid Black Lens, Shiny Black Frame Polarized Solid Black Lens)
+No data found or Invalid API configuration
+===========================================
+Product ID : 356
+Product Name : Ray-Ban Mens RB3498 Rectangular Sunglasses, Black & Green, 61 mm
+Status : No Update
+===========================================
+Product ID : 362
+Product Name : Tory Burch Womens 0TY7108 56mm Olive Horn/Green Clear Gradient Sunglasses
+Status :  Price updated
+===========================================
+Product ID : 363
+Product Name : Tory Burch Womens 0TY7105 53mm Navy/Blue Double Bridge/Solid Light Blue Sunglasses
+Status :  Price updated
+===========================================
+Product ID : 369
+Product Name : Amazon Echo Dot Case (fits Echo Dot 2nd Generation only) - Indigo Fabric
+No data found or Invalid API configuration
+===========================================
+Product ID : 370
+Product Name : Fitbit Charge 2 Heart Rate + Fitness Wristband, Black, Large (US Version)
+Status : No Update
+===========================================
+Product ID : 372
+Product Name : Fitbit Blaze Smart Fitness Watch, Black, Silver, Large (US Version)
+No data found or Invalid API configuration
+===========================================
+Product ID : 374
+Product Name : Fitbit Zip Wireless Activity Tracker, Charcoal
+No data found or Invalid API configuration
+===========================================
+Product ID : 378
+Product Name : PlayStation 4 Pro 1TB Console
+No data found or Invalid API configuration
+===========================================
+Product ID : 379
+Product Name : PlayStation 4 Pro 1TB Limited Edition Console - Destiny 2 Bundle
+No data found or Invalid API configuration
+===========================================
+=================== Completed ====================.

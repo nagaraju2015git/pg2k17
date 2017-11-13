@@ -1,0 +1,118 @@
+Products updation started...
+User : GAMBHIR Nagaraju
+User ID : 36
+Date : 29 Oct 2017 05:06 PM
+===========================================
+Product ID : 82
+Product Name : Paige Womens Hoxton Denim High-Waist Skinny Jeans Blue 24
+No data found or Invalid API configuration
+===========================================
+Product ID : 170
+Product Name : Mens Nike FS Lite Run 4 Running Shoe Pure Platinum/Metallic Silver/Black Size 15 M US
+Status : No Update
+===========================================
+Product ID : 184
+Product Name : Adidas Performance Speed Trainer 2 Training Shoe, Black/carbon Metallic/collegiate Gold, 4 M Us, White/Carbon Metallic/Clear Onix, 14 D(M) US
+Status :  Price, Image updated
+===========================================
+Product ID : 210
+Product Name : Vans Mens Atwood (Canvas) White/White Skate Shoe 9.5 Men US
+Status : No Update
+===========================================
+Product ID : 233
+Product Name : Splendid Womens Active Zip up, Black, M
+Status : No Update
+===========================================
+Product ID : 250
+Product Name : Splendid Womens Rayon Jersey Hilo Dress, Black, M
+Status :  Image updated
+===========================================
+Product ID : 252
+Product Name : Banana Republic Womens High-Rise Skinny Jean Rinse 27/4
+Status : No Update
+===========================================
+Product ID : 275
+Product Name : Patagonia Down Sweater Insulated Jacket - Womens Real Red Large
+Status : No Update
+===========================================
+Product ID : 277
+Product Name : Patagonia Womens Down Sweater Jacket (Medium, Feather Grey)
+Status : No Update
+===========================================
+Product ID : 278
+Product Name : Patagonia Womens Crosstrek Fleece Jacket (L)
+No data found or Invalid API configuration
+===========================================
+Product ID : 285
+Product Name : The North Face Womens Apex Elevation Jacket - TNF Black/TNF Black - M
+Status :  Price updated
+===========================================
+Product ID : 286
+Product Name : The North Face Womens Resolve 2 Jacket - Provincial Blue - S
+Status : No Update
+===========================================
+Product ID : 287
+Product Name : The North Face Womens Aconcagua Jacket - TNF Black Disrupt Camo - S
+Status : No Update
+===========================================
+Product ID : 299
+Product Name : The North Face Resolve Jacket Mens Sequoia Red/Asphalt Grey Large
+Status :  Price updated
+===========================================
+Product ID : 313
+Product Name : Garmin Approach S20 Golf Watch - Black
+Status :  Price updated
+===========================================
+Product ID : 318
+Product Name : Garmin Approach S2 GPS Golf Watch with Worldwide Courses (Black)
+Status : No Update
+===========================================
+Product ID : 320
+Product Name : Bose QuietComfort 25 Acoustic Noise Cancelling Headphones for Apple devices - Black (wired, 3.5mm)
+No data found or Invalid API configuration
+===========================================
+Product ID : 321
+Product Name : Bose QuietComfort 20 Acoustic Noise Cancelling Headphones, Apple Devices, Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 322
+Product Name : Bose SoundTrue around-ear headphones II - Apple devices, Charcoal
+Status : No Update
+===========================================
+Product ID : 343
+Product Name : kate spade new york Essentials Jet Small Square Studs
+Status : No Update
+===========================================
+Product ID : 351
+Product Name : RAY-BAN RB 3025 AVIATOR SUNGLASSES (58 mm, 003/3F SILVER CRYSTAL WHITE/GRADIENT BLUE)
+Status : No Update
+===========================================
+Product ID : 353
+Product Name : Ray-Ban RB2132 New Wayfarer Sunglasses Unisex (Matte Black Frame Solid Black G15 Lens, 52)
+Status : No Update
+===========================================
+Product ID : 354
+Product Name : Ray-Ban Mens RB3183 Sunglasses (Shiny Black Frame Polarized Solid Black Lens, Shiny Black Frame Polarized Solid Black Lens)
+Status : No Update
+===========================================
+Product ID : 369
+Product Name : Amazon Echo Dot Case (fits Echo Dot 2nd Generation only) - Indigo Fabric
+Status : No Update
+===========================================
+Product ID : 372
+Product Name : Fitbit Blaze Smart Fitness Watch, Black, Silver, Large (US Version)
+Status :  Price updated
+===========================================
+Product ID : 374
+Product Name : Fitbit Zip Wireless Activity Tracker, Charcoal
+Status : No Update
+===========================================
+Product ID : 378
+Product Name : PlayStation 4 Pro 1TB Console
+Status :  Price updated
+===========================================
+Product ID : 379
+Product Name : PlayStation 4 Pro 1TB Limited Edition Console - Destiny 2 Bundle
+Status : No Update
+===========================================
+=================== Completed ====================.

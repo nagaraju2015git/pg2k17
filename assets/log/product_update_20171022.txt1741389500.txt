@@ -1,0 +1,26 @@
+Products updation started...
+User :  
+User ID : 41
+Date : 22 Oct 2017 07:37 AM
+===========================================
+Product ID : 235
+Product Name : Splendid Womens Bailey Sweater, Black, XS
+No data found or Invalid API configuration
+===========================================
+Product ID : 278
+Product Name : Patagonia Womens Crosstrek Fleece Jacket (L)
+No data found or Invalid API configuration
+===========================================
+Product ID : 312
+Product Name : Apple Watch Nike+ 38mm Silver Aluminum Case Pure Platinum/White Nike Sport Band
+No data found or Invalid API configuration
+===========================================
+Product ID : 320
+Product Name : Bose QuietComfort 25 Acoustic Noise Cancelling Headphones for Apple devices - Black (wired, 3.5mm)
+No data found or Invalid API configuration
+===========================================
+Product ID : 321
+Product Name : Bose QuietComfort 20 Acoustic Noise Cancelling Headphones, Apple Devices, Black
+No data found or Invalid API configuration
+===========================================
+Exit

@@ -1,0 +1,1270 @@
+Products updation started...
+User :  
+User ID : 41
+Date : 29 Oct 2017 04:44 PM
+===========================================
+Product ID : 58
+Product Name : Levis Womens Boyfriend Jeans, Uphill, 31 (US 12)
+Status : No Update
+===========================================
+Product ID : 59
+Product Name : Levis Womens 711 Skinny Jean, Damage Is Done, 29Wx30L
+Status : No Update
+===========================================
+Product ID : 60
+Product Name : Levis Womens 721 High Rise Skinny Jeans, Soft Black, 30 (US 10) R
+Status : No Update
+===========================================
+Product ID : 61
+Product Name : Levis Womens Slimming Skinny Jean, Blackened Ash (65% Cotton, 17% Polyester, 16% Viscose, 2% Elastane), 28Wx30L
+Status : No Update
+===========================================
+Product ID : 62
+Product Name : Levis Womens 505 Straight Jeans, Ceadar Vista Blue, 32 (US 14) R
+Status :  Price updated
+===========================================
+Product ID : 63
+Product Name : Levis Womens Mile High Super Skinny Jeans, September Blue, 26 (US 2) R
+Status :  Price updated
+===========================================
+Product ID : 64
+Product Name : Levis Womens 529 Curvy Bootcut Jean, Beach Tide, 32/14 Medium
+Status : No Update
+===========================================
+Product ID : 65
+Product Name : Signature by Levi Strauss & Co Womens Curvy Straight Jeans, Vivacious, 14 Medium
+Status : No Update
+===========================================
+Product ID : 66
+Product Name : Hudson Jeans Womens Signature Bootcut Flap Pocket Jean, Champ, 28
+Status : No Update
+===========================================
+Product ID : 67
+Product Name : Hudson Jeans Womens Krista Ankle Super Skinny 5-Pocket Jean, Moonshine, 25
+Status : No Update
+===========================================
+Product ID : 68
+Product Name : Hudson Jeans Womens Nico Mid-Rise Super Skinny 5-Pocket Jean, Patrol Unit, 25
+Status :  Price updated
+===========================================
+Product ID : 69
+Product Name : Hudson Jeans Womens Barbara High Rise Super Skinny 5 Pocket Jean, Revolver, 29
+No data found or Invalid API configuration
+===========================================
+Product ID : 70
+Product Name : Hudson Jeans Womens Nico Midrise Super Skinny 5-Pocket Jean, Rumors, 29
+No data found or Invalid API configuration
+===========================================
+Product ID : 71
+Product Name : Hudson Jeans Womens Collin Midrise Skinny Flap Pocket Jean, Crest Falls, 31
+Status :  Price updated
+===========================================
+Product ID : 72
+Product Name : Hudson Jeans Womens Nico Mid-Rise Super Skinny Elysian 5-Pocket Jean, Revelation, 32
+No data found or Invalid API configuration
+===========================================
+Product ID : 73
+Product Name : Hudson Jeans Womens Collin Midrise Skinny Denim Flap Pocket Jean, White, 27
+No data found or Invalid API configuration
+===========================================
+Product ID : 74
+Product Name : PAIGE Womens Skyline Skinny Jeans, Mona, 27
+No data found or Invalid API configuration
+===========================================
+Product ID : 75
+Product Name : PAIGE Womens Skyline Ankle Peg Jean, Optic White, 27
+No data found or Invalid API configuration
+===========================================
+Product ID : 76
+Product Name : Paige Womens Manhattan Boot Jeans, Stellah, 28
+No data found or Invalid API configuration
+===========================================
+Product ID : 77
+Product Name : Paige Womens Verdugo Ultra Skinny Jeans, Davis, 28
+No data found or Invalid API configuration
+===========================================
+Product ID : 78
+Product Name : PAIGE Womens Verdugo Ankle Jean, Nottingham, 25
+No data found or Invalid API configuration
+===========================================
+Product ID : 79
+Product Name : PAIGE Womens Verdugo Ankle Jean, Tristan, 32
+Status :  Image updated
+===========================================
+Product ID : 80
+Product Name : PAIGE Womens Skyline Ankle Peg Jeans with Uneven Hem, Pryor Destructed, 31
+Status : No Update
+===========================================
+Product ID : 81
+Product Name : PAIGE Womens Skyline Straight Jean, Vista, 29
+No data found or Invalid API configuration
+===========================================
+Product ID : 82
+Product Name : Paige Womens Hoxton Denim High-Waist Skinny Jeans Blue 24
+No data found or Invalid API configuration
+===========================================
+Product ID : 83
+Product Name : PAIGE Mens Doheny Straight Fit Jean, Cash, 34
+No data found or Invalid API configuration
+===========================================
+Product ID : 84
+Product Name : PAIGE Mens Federal Slim-Fit Jean, Roller, 31
+No data found or Invalid API configuration
+===========================================
+Product ID : 85
+Product Name : PAIGE Mens Federal Slim Fit, Timberwolf, 30
+No data found or Invalid API configuration
+===========================================
+Product ID : 86
+Product Name : PAIGE Mens Normandie Slim Straight Jeans, Cash, 32
+No data found or Invalid API configuration
+===========================================
+Product ID : 87
+Product Name : PAIGE Mens Federal Slim Fit, Rigby, 32
+No data found or Invalid API configuration
+===========================================
+Product ID : 88
+Product Name : PAIGE Mens Normandie Slim Straight Jeans, Leo, 30
+No data found or Invalid API configuration
+===========================================
+Product ID : 89
+Product Name : PAIGE Mens Lennox Transcend Tapered Skinny Leg Jean, Beckett, 31
+Status :  Price updated
+===========================================
+Product ID : 90
+Product Name : PAIGE Mens Lennox Skinny Jean, Black Shadow, 32
+Status : No Update
+===========================================
+Product ID : 91
+Product Name : PAIGE Mens Federal Slim-Fit Jean, Jesse, 31
+No data found or Invalid API configuration
+===========================================
+Product ID : 92
+Product Name : Nike Mens Dri-Fit Polyester Athletic Training Tee Shirt Large Navy
+No data found or Invalid API configuration
+===========================================
+Product ID : 93
+Product Name : Nike Mens Futura Icon T-Shirt Black/White 624314-015 Size Large
+No data found or Invalid API configuration
+===========================================
+Product ID : 94
+Product Name : NIKE Mens Sportswear New Just Do It Swoosh Tee, Black/Varsity Red, Medium
+No data found or Invalid API configuration
+===========================================
+Product ID : 95
+Product Name : Nike Short Sleeve Legend - Grey - Small
+No data found or Invalid API configuration
+===========================================
+Product ID : 96
+Product Name : NIKE Mens Sportswear Hangtag Swoosh Tee, Dark Grey Heather/White, Large
+Status :  Price updated
+===========================================
+Product ID : 97
+Product Name : Nike Maroon Legend Long Sleeve Performance Shirt  
+Status : No Update
+===========================================
+Product ID : 98
+Product Name : NIKE Mens Pro Fitted Short Sleeve Shirt, Black/Dark Grey/White, Large
+No data found or Invalid API configuration
+===========================================
+Product ID : 99
+Product Name : Nike Mens Sportswear Pull Over Club Hooded Sweatshirt - Large - Black/White
+No data found or Invalid API configuration
+===========================================
+Product ID : 100
+Product Name : Nike Legend 2.0 T-Shirt White/Black/Black Size Medium
+Status : No Update
+===========================================
+Product ID : 101
+Product Name : NIKE Mens Dry Legend 2 Tee, Charcoal Heather/Matte Silver, Large
+No data found or Invalid API configuration
+===========================================
+Product ID : 102
+Product Name : Banana Republic Mens Vintage Straight Leg Jeans Denim Light Wash 32W x 30L
+No data found or Invalid API configuration
+===========================================
+Product ID : 103
+Product Name : Banana Republic Mens Premium Performance Slim Leg Jeans Platinum Grey Wash 34x30
+No data found or Invalid API configuration
+===========================================
+Product ID : 104
+Product Name : Banana Republic Mens Full Zip Long Sleeve Hoodie, Blue Size Medium
+No data found or Invalid API configuration
+===========================================
+Product ID : 105
+Product Name : Banana Republic Mens Dobby Slim Leg Cotton Jeans Medium Heather Blue 32W x 32L
+No data found or Invalid API configuration
+===========================================
+Product ID : 106
+Product Name : Banana Republic Mens Aiden-Fit Chino Pants True navy, 36W x 30L
+No data found or Invalid API configuration
+===========================================
+Product ID : 107
+Product Name : DL1961 Mens Russell Slim Straight Sateen Pant in Gray, Pool, 34
+Status :  Price updated
+===========================================
+Product ID : 108
+Product Name : DL1961 Mens Nick Slim, Wood Hall, 32
+Status :  Price updated
+===========================================
+Product ID : 109
+Product Name : DL1961 Mens Nick Slim Fit Jean, Blast, 34
+Status :  Price updated
+===========================================
+Product ID : 110
+Product Name : DL1961 Mens Duke Slim Fit Chino, Aster, 31
+No data found or Invalid API configuration
+===========================================
+Product ID : 111
+Product Name : DL1961 Mens Cooper Relaxed Skinny Fit Jean, Ridge, 35
+No data found or Invalid API configuration
+===========================================
+Product ID : 112
+Product Name : DL1961 Mens Jimmy Chino Trouser, Sandalwood, 38
+No data found or Invalid API configuration
+===========================================
+Product ID : 113
+Product Name : Banana Republic Womens Mid-Rise Skinny Jean Rinse Dark Blue 30/10
+No data found or Invalid API configuration
+===========================================
+Product ID : 114
+Product Name : Banana Republic Womens Dark Wash Girlfriend rolled cuff Jean Blue 28/6
+No data found or Invalid API configuration
+===========================================
+Product ID : 115
+Product Name : Banana Republic Womens Slim Boot-cut Jean Medium Wash Dark Blue 26/2R Regular
+No data found or Invalid API configuration
+===========================================
+Product ID : 116
+Product Name : Banana Republic Womens Medium Straight Leg Jean medium Wash size 29/8
+No data found or Invalid API configuration
+===========================================
+Product ID : 117
+Product Name : Banana Republic Womens 418894 Mid rise Straight Leg Jeans Dark Rinse 32/14
+No data found or Invalid API configuration
+===========================================
+Product ID : 118
+Product Name : Banana Republic Womens Blue Slim Boot-cut Jean Medium Wash Blue 27/4
+No data found or Invalid API configuration
+===========================================
+Product ID : 119
+Product Name : Banana Republic Womens Dark Wash Girlfriend rolled cuff Jean Blue 27/4
+Status : No Update
+===========================================
+Product ID : 120
+Product Name : BOSS Orange Mens 1513004 New York Black Stainless Steel Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 121
+Product Name : Hugo Boss Hugo Boss 1513440 Gray / Silver Stainless Steel Analog Quartz Mens Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 122
+Product Name : HUGO BOSS Mens HONG KONG SPORT Quartz Stainless Steel and Nylon Casual Watch, Color:Brown (Model: 1550002)
+Status :  Price updated
+===========================================
+Product ID : 123
+Product Name : HUGO BOSS Mens Amsterdam Quartz Stainless Steel and Leather Casual Watch, Color:Grey (Model: 1550021)
+Status :  Price updated
+===========================================
+Product ID : 124
+Product Name : Hugo Boss Pilot Vintage 1513332 Brown / Parchment Cream Leather Analog Quartz Mens Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 125
+Product Name : Hugo Boss Mens Analog Dress Quartz Watch (Imported) 1513331
+No data found or Invalid API configuration
+===========================================
+Product ID : 126
+Product Name : BOSS Orange Mens 1513295 Sao Paulo Analog Display Japanese Quartz Black Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 127
+Product Name : Hugo Boss 1513494 Brown 44mm Stainless Steel Navigator Mens Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 128
+Product Name : Burberry Embossed Blue Dial Stainless Steel Quartz Mens Watch BU9031
+No data found or Invalid API configuration
+===========================================
+Product ID : 129
+Product Name : Burberry Gold Dial Stainless Steel Textile Multi Quartz Ladies Watch BU10001
+Status :  Price updated
+===========================================
+Product ID : 130
+Product Name : Burberry Chronograph Blue Dial Stainless Steel Mens Watch BU9363
+Status :  Price updated
+===========================================
+Product ID : 131
+Product Name : Burberry Mens BU1393 Heritage Gold-Plated Stainless Steel Gold Dial Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 132
+Product Name : Burberry Womens BU9101 Large Check Stainless Steel Bracelet Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 133
+Product Name : BURBERRY MENS THE UTILITARIAN WATCH BLACK LEATHER BU7867
+Status : No Update
+===========================================
+Product ID : 134
+Product Name : Burberry Mens BU9001 Large Check Stainless Steel Bracelet Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 135
+Product Name : Burberry Black Dial Black Fabric Strap Mens Watch BU9362
+No data found or Invalid API configuration
+===========================================
+Product ID : 136
+Product Name : Burberry Mens City Leather Strap Nova Check Watch BU9357
+Status :  Price updated
+===========================================
+Product ID : 137
+Product Name : Burberry Unisex Swiss Gold Ion-Plated Stainless Steel Bracelet Watch 38mm BU9038
+No data found or Invalid API configuration
+===========================================
+Product ID : 138
+Product Name : Burberry Champagne Dial Haymarket Check Fabric Ladies Watch Burberry BU9219
+No data found or Invalid API configuration
+===========================================
+Product ID : 139
+Product Name : Womens Watches BURBERRY BURBERRY HERITAGE BU9022
+No data found or Invalid API configuration
+===========================================
+Product ID : 140
+Product Name : Burberry Womens BU9143 The City Stainless Steel Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 141
+Product Name : Burberry Ladies Watch Heritage BU1375 - 2
+No data found or Invalid API configuration
+===========================================
+Product ID : 142
+Product Name : Nixon Mens A3862209 Sentry Chrono Analog Display Japanese Quartz Black Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 143
+Product Name : NIXON Mens A197-000 Silicone Digital Quartz Black Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 144
+Product Name : Nixon Mens Charger Quartz Stainless Steel Casual Watch, Color:Silver-Toned (Model: A10722730)
+Status : No Update
+===========================================
+Product ID : 145
+Product Name : Nixon The Cannon A160502 Unisex Gold Plated Watch
+Status : No Update
+===========================================
+Product ID : 146
+Product Name : Fossil Mens Minimalist Quartz Stainless Steel and Leather Casual Watch, Color:Blue (Model: FS5371)
+Status : No Update
+===========================================
+Product ID : 147
+Product Name : Fossil Mens FS4552 Machine Black Stainless Steel Chronograph Watch
+Status : No Update
+===========================================
+Product ID : 148
+Product Name : Fossil Mens Grant Quartz Stainless Steel and Leather Casual Watch, Color:Brown (Model: FS5344)
+No data found or Invalid API configuration
+===========================================
+Product ID : 149
+Product Name : Fossil Mens Machine Quartz Stainless Steel Casual Watch, Color:Silver-Toned (Model: FS5340)
+No data found or Invalid API configuration
+===========================================
+Product ID : 150
+Product Name : Fossil Mens Knox Dual Time Quartz Stainless Steel and Leather Casual Watch, Color:Brown (Model: FS5356)
+No data found or Invalid API configuration
+===========================================
+Product ID : 151
+Product Name : Fossil Mens FS4774 Machine Smoke Stainless Steel Bracelet Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 152
+Product Name : Fossil Mens Grant Sport Quartz Stainless Steel and Leather Casual Watch, Color:Brown (Model: FS5343)
+No data found or Invalid API configuration
+===========================================
+Product ID : 153
+Product Name : Fossil Mens FS4656 Analog Watch with Brown Band
+No data found or Invalid API configuration
+===========================================
+Product ID : 154
+Product Name : Fossil Mens 44mm Townsman Quartz Stainless Steel and Leather Casual Watch, Color:Brown (Model: FS5350)
+No data found or Invalid API configuration
+===========================================
+Product ID : 155
+Product Name : Fossil FS4812 Grant Chronograph Black Leather Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 156
+Product Name : Michael Kors Womens Garner Rose-Gold Tone Watch MK6409
+No data found or Invalid API configuration
+===========================================
+Product ID : 157
+Product Name : Michael Kors Womens Mini Slim Runway Silver-Tone Watch MK3514
+No data found or Invalid API configuration
+===========================================
+Product ID : 158
+Product Name : MICHAEL KORS GARNER ladies watch MK6408
+No data found or Invalid API configuration
+===========================================
+Product ID : 159
+Product Name : Michael Kors Womens Parker Gold-Tone Watch MK2249
+Status :  Price updated
+===========================================
+Product ID : 160
+Product Name : Michael Kors Womens Ritz Silver-Tone Watch MK5020
+Status :  Price updated
+===========================================
+Product ID : 161
+Product Name : Michael Kors Womens Darci Watch, Silver/Rose/Amethyst, One Size
+Status :  Price, Image updated
+===========================================
+Product ID : 162
+Product Name : Michael Kors MK3178 Ladies All Grey Watch
+Status :  Price updated
+===========================================
+Product ID : 163
+Product Name : Michael Kors Womens Runway Rose Gold-Tone Watch MK5128
+No data found or Invalid API configuration
+===========================================
+Product ID : 164
+Product Name : Michael Kors Womens Quartz Stainless Steel Casual Watch, Color:Silver-Toned (Model: MK6498)
+No data found or Invalid API configuration
+===========================================
+Product ID : 165
+Product Name : Michael Kors Womens Runway Rose Gold-Tone Watch MK5661
+No data found or Invalid API configuration
+===========================================
+Product ID : 166
+Product Name : Nike Mens Flex Experience RN (Blk/Mtlc Drk Gry/Anthrct/White) Running Shoe, 10.5 D(M) US
+No data found or Invalid API configuration
+===========================================
+Product ID : 167
+Product Name : Nike Mens Free RN Running Shoes Black/Black/Anthracite 831508-002 Size 11
+Status : No Update
+===========================================
+Product ID : 168
+Product Name : NIKE Mens Revolution 3 Running Shoe, Cool Grey/Black/White, 10 D(M) US
+No data found or Invalid API configuration
+===========================================
+Product ID : 169
+Product Name : Mens Nike Flex RN 2017 Running Shoe Dark Sky Blue/Gym Blue/Glacier Grey Size 9.5 M US
+No data found or Invalid API configuration
+===========================================
+Product ID : 170
+Product Name : Mens Nike FS Lite Run 4 Running Shoe Pure Platinum/Metallic Silver/Black Size 15 M US
+No data found or Invalid API configuration
+===========================================
+Product ID : 171
+Product Name : Nike Air Max Tailwind 8 Mens Running Shoes (11 D(M) US)
+No data found or Invalid API configuration
+===========================================
+Product ID : 172
+Product Name : Nike Mens Lunarcharge BR Running Shoes (Noir Black-White, 9)
+No data found or Invalid API configuration
+===========================================
+Product ID : 173
+Product Name : NIKE MENS NIKE FLEX EXPERIENCE RN 6 COOL GREY MTLC GREY WHT BLK SIZE 13
+Status :  Price updated
+===========================================
+Product ID : 174
+Product Name : Mens Nike Flex Contact Running Shoe Anthracite/ Volt-Barely Volt-White (7, Anthracite/ Volt-barely Volt-white)
+No data found or Invalid API configuration
+===========================================
+Product ID : 175
+Product Name : ASICS Mens Gel Venture 5 Running Shoe, Silver/Light Grey/Royal, 10 4E US
+No data found or Invalid API configuration
+===========================================
+Product ID : 176
+Product Name : Asics Mens Gel-Contend 3 Titanium/Silver/Red Ankle-High Running Shoe - 10.5M
+No data found or Invalid API configuration
+===========================================
+Product ID : 177
+Product Name : ASICS Mens Gel-Kahana 8 Running-Shoes, Black/Classic Red/Phantom, 12 Medium US
+Status :  Price updated
+===========================================
+Product ID : 178
+Product Name : ASICS Mens Gt-1000 5 Running Shoe, Black/Onyx/Black, 11.5 4E US
+No data found or Invalid API configuration
+===========================================
+Product ID : 179
+Product Name : ASICS Mens Gel-Nimbus 19 Running Shoe, Carbon/White/Silver, 14 2E US
+No data found or Invalid API configuration
+===========================================
+Product ID : 180
+Product Name : adidas Performance Mens Energy Cloud Wtc m Running Shoe, Black/Utility Black/White, 10 M US
+Status : No Update
+===========================================
+Product ID : 181
+Product Name : adidas Performance Mens Duramo 8 M Running Shoe, Mystery Blue/Collegiate Navy/Collegiate Navy, 11 M US
+Status : No Update
+===========================================
+Product ID : 182
+Product Name : adidas NEO Mens Cloudfoam Race Running-Shoes, Black/Black/White, 10 M US
+Status : No Update
+===========================================
+Product ID : 183
+Product Name : adidas Performance Mens Mana Bounce M Running Shoe, Grey/Metallic Silver/Black, 11 M US
+No data found or Invalid API configuration
+===========================================
+Product ID : 184
+Product Name : Adidas Performance Speed Trainer 2 Training Shoe, Black/carbon Metallic/collegiate Gold, 4 M Us, White/Carbon Metallic/Clear Onix, 14 D(M) US
+No data found or Invalid API configuration
+===========================================
+Product ID : 185
+Product Name : adidas Performance Mens Alphabounce 1 M Running Shoe, Grey/Utility Black/Energy, 8.5 M US
+No data found or Invalid API configuration
+===========================================
+Product ID : 186
+Product Name : adidas Performance Mens Alphabounce Em m Running Shoe, Grey/Grey/White, 8.5 M US
+No data found or Invalid API configuration
+===========================================
+Product ID : 187
+Product Name : New Balance Mens MZANTBS3, Blue/Black, 14 D US
+No data found or Invalid API configuration
+===========================================
+Product ID : 188
+Product Name : Q216 990v4
+Status : No Update
+===========================================
+Product ID : 189
+Product Name : New Balance Mens 1400 Classic Running Shoe (8 D(M) US, Black/Burgundy)
+No data found or Invalid API configuration
+===========================================
+Product ID : 190
+Product Name : New Balance MT1210 Mens Trail Running Shoe, Size: 9.5 Width: 4E Color: Black/Silver/Blue
+No data found or Invalid API configuration
+===========================================
+Product ID : 191
+Product Name : New Balance M770 Version 2 Mens Running Shoe, Size: 10 Width: 2E Color: Admiral Red/Black
+Status : No Update
+===========================================
+Product ID : 192
+Product Name : BOSS Hugo Boss  Mens Dress Appeal Suede Lace-Up Derby by HUGO Dark Brown Shoe
+Status : No Update
+===========================================
+Product ID : 193
+Product Name : BOSS Hugo Boss  Mens Dress Appeal Loafer by HUGO Black Shoe
+Status : No Update
+===========================================
+Product ID : 194
+Product Name : HUGO by Hugo Boss Mens C-Hulof Slip-On Loafer, Black, 12 M US
+Status :  Price, Image updated
+===========================================
+Product ID : 195
+Product Name : HUGO by Hugo Boss Mens Temptation Lace up Derby in Nappa Leather Work Shoe, Black, 9 UK/10 M US
+No data found or Invalid API configuration
+===========================================
+Product ID : 196
+Product Name : BOSS Orange by Hugo Boss Mens Cultroot Leather Lace up Derby Work Shoe, Dark Brown, 10 N US
+No data found or Invalid API configuration
+===========================================
+Product ID : 197
+Product Name : Sperry Top-Sider Mens A/O 2-Eye Oxford, Beige (Tan), 9.5 2E US
+No data found or Invalid API configuration
+===========================================
+Product ID : 198
+Product Name : Sperry Top-Sider Mens Wahoo 2-Eye Boat Shoe,Black Textile,US 11.5 W
+No data found or Invalid API configuration
+===========================================
+Product ID : 199
+Product Name : Sperry Top-Sider Mens Authentic Original 2-Eye Boat Shoe, New Navy, 8.5 M US
+No data found or Invalid API configuration
+===========================================
+Product ID : 200
+Product Name : Sperry Top-Sider Mens Quest 2 Eye Boat Shoe, Navy, 9 M US
+No data found or Invalid API configuration
+===========================================
+Product ID : 201
+Product Name : SPERRY Gold A / O 1-Eye Mens Genuine Leather Shoes STS12816, Size:44
+No data found or Invalid API configuration
+===========================================
+Product ID : 202
+Product Name : Sperry Top-Sider Mens Flex Deck CVO Mesh Grey Oxford, 12 D(M) US
+No data found or Invalid API configuration
+===========================================
+Product ID : 203
+Product Name : Sperry Top-Sider Mens A/O 2 Eye Boat Shoe,Brown,7.5 M US
+No data found or Invalid API configuration
+===========================================
+Product ID : 204
+Product Name : Vans Authentic Solid Canvas mens skateboarding-shoes VN-0EE3BKA_6 - Black/Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 205
+Product Name : Vans Mens Classic Slip On (Suede & Suiting) Skateboarding Shoes (9.5 B(M) US Women / 8 D(M) US Men, DRESS BLUES)
+No data found or Invalid API configuration
+===========================================
+Product ID : 206
+Product Name : Vans Mens SK8-Hi MTE Black/Tweed Sneaker - 8
+Status : No Update
+===========================================
+Product ID : 207
+Product Name : Vans - Unisex-Adult Old Skool Shoes, Size: 11 D(M) US Mens / 12.5 B(M) US Womens, Color: (C&L) Dress Blues/Material Mix
+Status : No Update
+===========================================
+Product ID : 208
+Product Name : Vans Unisex Authentic Lo Pro Skate Shoe (6 B(M) US, PEWTER/TRUE WHITE)
+Status : No Update
+===========================================
+Product ID : 209
+Product Name : Vans Unisex Era 59 (C&L) Blac Black/Material Mix Skate Shoe 10 Men US / 11.5 Women US
+No data found or Invalid API configuration
+===========================================
+Product ID : 210
+Product Name : Vans Mens Atwood (Canvas) White/White Skate Shoe 9.5 Men US
+No data found or Invalid API configuration
+===========================================
+Product ID : 211
+Product Name : Vans Iso 1.5 Shoes UK 11 Ballistic Black Celery
+No data found or Invalid API configuration
+===========================================
+Product ID : 212
+Product Name : Vans Mens Chukka Low Pro (8.0 D(M) US Mens, Frost Gray/ Gum)
+No data found or Invalid API configuration
+===========================================
+Product ID : 213
+Product Name : Splendid Womens Festive Flannel Pj Set, Dusty Plaid, Medium
+Status : No Update
+===========================================
+Product ID : 214
+Product Name : Splendid Womens Knit Notch Collar Pj Set, Medium Marled Heather, Small
+No data found or Invalid API configuration
+===========================================
+Product ID : 215
+Product Name : Splendid Womens Woven Pj Set, Tropical Splash Floral, X-Small
+No data found or Invalid API configuration
+===========================================
+Product ID : 216
+Product Name : Splendid Womens Piped PJ Set Stretchy Herringbone Pajama Set MD (US 6-8)
+No data found or Invalid API configuration
+===========================================
+Product ID : 217
+Product Name : Splendid Womens Classic Shorty PJ Set, Batik Floral, Small
+Status :  Price updated
+===========================================
+Product ID : 218
+Product Name : Splendid Womens Classic Pajama Set, Tropical Fleur, Small
+No data found or Invalid API configuration
+===========================================
+Product ID : 219
+Product Name : Splendid Womens Voile Pajama Set, Sketchy Scallop, Medium
+Status : No Update
+===========================================
+Product ID : 220
+Product Name : Splendid Womens Tank Pj Set, Cloud Tie Dye, Medium
+Status :  Price updated
+===========================================
+Product ID : 221
+Product Name : Splendid Womens Tank, Spring Shower Stripe, Large
+No data found or Invalid API configuration
+===========================================
+Product ID : 222
+Product Name : Splendid Womens Shirred Pajama Set, Black, Small
+No data found or Invalid API configuration
+===========================================
+Product ID : 223
+Product Name : Splendid Womens Sylvie-Rib-Polo, H.Grey/Bone, L
+No data found or Invalid API configuration
+===========================================
+Product ID : 224
+Product Name : Splendid Womens 1 x 1 X Front Tee, Black, S
+Status : No Update
+===========================================
+Product ID : 225
+Product Name : Splendid Womens Vintage Roller Tee, Cream, XL
+Status : No Update
+===========================================
+Product ID : 226
+Product Name : Splendid Womens Thermal Long Sleeve Tee, Black, Medium
+Status :  Image updated
+===========================================
+Product ID : 227
+Product Name : Splendid Womens Pocket T-Shirt, L, White
+Status :  Price updated
+===========================================
+Product ID : 228
+Product Name : Splendid Womens Drapey Lux Dolman, Steel, Large
+No data found or Invalid API configuration
+===========================================
+Product ID : 229
+Product Name : Splendid Womens Ss Slub V Neck with Ruffle, Heritage Blue, M
+No data found or Invalid API configuration
+===========================================
+Product ID : 230
+Product Name : Splendid Womens French Stripe Top with Bell Sleeve, Off White, XS
+No data found or Invalid API configuration
+===========================================
+Product ID : 231
+Product Name : Splendid Womens 1 x 1 Venice Stripe Off the Shoulder, Cape Red, L
+No data found or Invalid API configuration
+===========================================
+Product ID : 232
+Product Name : Splendid Womens Thermal Wrap Hooded Cardigan, Black, Large
+No data found or Invalid API configuration
+===========================================
+Product ID : 233
+Product Name : Splendid Womens Active Zip up, Black, M
+No data found or Invalid API configuration
+===========================================
+Product ID : 234
+Product Name : Splendid Womens Kenton Reversible Sweater, Black, XS
+Status :  Price updated
+===========================================
+Product ID : 235
+Product Name : Splendid Womens Bailey Sweater, Black, XS
+Status : No Update
+===========================================
+Product ID : 236
+Product Name : Splendid Womens Cardigan, Navy, Medium
+No data found or Invalid API configuration
+===========================================
+Product ID : 237
+Product Name : Splendid Womens Soft Cotton Gray Cold Shoulder Hoodie, Marble Gray, M
+No data found or Invalid API configuration
+===========================================
+Product ID : 238
+Product Name : Splendid Womens Raglan Pullover, H. Natural, L
+No data found or Invalid API configuration
+===========================================
+Product ID : 239
+Product Name : Splendid Womens U-Neck Thermal, Pink/Beige, M
+No data found or Invalid API configuration
+===========================================
+Product ID : 240
+Product Name : Splendid Womens Confetti Active Zip up, H.Grey, M
+No data found or Invalid API configuration
+===========================================
+Product ID : 241
+Product Name : Splendid Womens Active Pullover Sweatshirt, Lead, L
+Status : No Update
+===========================================
+Product ID : 242
+Product Name : Splendid Womens Rayon 2 x 1 Rib Cross Back Dress, Black, M
+Status :  Price updated
+===========================================
+Product ID : 243
+Product Name : Splendid Womens Ditsy Floral Drop Waist Dress, Natural, L
+No data found or Invalid API configuration
+===========================================
+Product ID : 244
+Product Name : Splendid Womens Solid Ruffle Wrap Dress Black Dress
+Status :  Price, Image updated
+===========================================
+Product ID : 245
+Product Name : Splendid Womens Mixed Media T-Shirt Dress, Pink/Beige, S
+No data found or Invalid API configuration
+===========================================
+Product ID : 246
+Product Name : Splendid Womens Rayon Crepe Slip Dress Black Dress
+No data found or Invalid API configuration
+===========================================
+Product ID : 247
+Product Name : Splendid Womens Mock Neck Dress, Black, S
+Status :  Price, Image updated
+===========================================
+Product ID : 248
+Product Name : Splendid Womens Sleeveless Dress, Pink Beige, Large
+Status : No Update
+===========================================
+Product ID : 249
+Product Name : Splendid Womens Island Stamp Printed Dress, White, M
+No data found or Invalid API configuration
+===========================================
+Product ID : 250
+Product Name : Splendid Womens Rayon Jersey Hilo Dress, Black, M
+No data found or Invalid API configuration
+===========================================
+Product ID : 251
+Product Name : Splendid Womens Dune Stripe Envelope Dress White/Black Dress
+No data found or Invalid API configuration
+===========================================
+Product ID : 252
+Product Name : Banana Republic Womens High-Rise Skinny Jean Rinse 27/4
+No data found or Invalid API configuration
+===========================================
+Product ID : 253
+Product Name : Banana Republic Womens Medium Straight Leg Jean medium Wash size 28/6
+No data found or Invalid API configuration
+===========================================
+Product ID : 254
+Product Name : Banana Republic Womens Mid-Rise Skinny Jean Rinse Dark Blue 28/6
+No data found or Invalid API configuration
+===========================================
+Product ID : 255
+Product Name : Banana Republic Womens Dark Wash Girlfriend rolled cuff Jean Blue 29/8
+Status : No Update
+===========================================
+Product ID : 256
+Product Name : Banana Republic Womens Medium Skinny Jean Medium Wash 29/8
+Status : No Update
+===========================================
+Product ID : 257
+Product Name : Banana Republic Womens Slim Boot-cut Jean Medium Wash Dark Blue 27/4R Regular
+Status : No Update
+===========================================
+Product ID : 258
+Product Name : Banana Republic Mens Straight Leg Fit Denim Jeans Light Blue Wash 33x30
+No data found or Invalid API configuration
+===========================================
+Product ID : 259
+Product Name : Banana Republic Mens Vintage Straight-Fit Jean Light-Wash 36x34
+No data found or Invalid API configuration
+===========================================
+Product ID : 260
+Product Name : Banana Republic Mens Sueded Slim-Fit Stretch Jean Washed Indigo, 33X30
+No data found or Invalid API configuration
+===========================================
+Product ID : 261
+Product Name : Banana Republic Mens Vintage Straight Fit Jeans Light Blue Wash 36W x 32L
+No data found or Invalid API configuration
+===========================================
+Product ID : 262
+Product Name : Banana Republic Mens Vintage Straight Leg Jeans Denim Dark Teal Wash 36W x 32L
+No data found or Invalid API configuration
+===========================================
+Product ID : 263
+Product Name : Patagonia Mens Houdini Full-Zip Jacket
+No data found or Invalid API configuration
+===========================================
+Product ID : 264
+Product Name : Patagonia Piolet Jacket - Mens Black XX-Large
+No data found or Invalid API configuration
+===========================================
+Product ID : 265
+Product Name : Patagonia Men’s Hi Loft Hooded Down Jacket L Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 266
+Product Name : Patagonia R2 Fleece Jacket - Mens Navy Blue, XXL
+Status : No Update
+===========================================
+Product ID : 267
+Product Name : Patagonia Torrentshell Jacket - Mens Narwhal Grey Large
+Status : No Update
+===========================================
+Product ID : 268
+Product Name : Patagonia Down Sweater Jacket - Mens Electron Blue, L
+Status :  Price updated
+===========================================
+Product ID : 269
+Product Name : Patagonia Adze Hybrid Softshell Jacket - Mens Supply Green, L
+Status : No Update
+===========================================
+Product ID : 270
+Product Name : Patagonia Mens Nano Puff Jacket Forge Grey Size Large
+No data found or Invalid API configuration
+===========================================
+Product ID : 271
+Product Name : Patagonia Mens Baggies Jacket (Medium, Navy Blue)
+No data found or Invalid API configuration
+===========================================
+Product ID : 272
+Product Name : Patagonia Womens Nano Puff Jacket (Small, Magenta)
+No data found or Invalid API configuration
+===========================================
+Product ID : 273
+Product Name : Patagonia Womens Re-tool Snap-T Pullover
+No data found or Invalid API configuration
+===========================================
+Product ID : 274
+Product Name : Patagonia womens Downtown Jacket (L, Pebble Gray)
+No data found or Invalid API configuration
+===========================================
+Product ID : 275
+Product Name : Patagonia Down Sweater Insulated Jacket - Womens Real Red Large
+No data found or Invalid API configuration
+===========================================
+Product ID : 276
+Product Name : Patagonia Ladies’ Torrentshell Jacket (X-Large, Ultramarine Blue)
+No data found or Invalid API configuration
+===========================================
+Product ID : 277
+Product Name : Patagonia Womens Down Sweater Jacket (Medium, Feather Grey)
+No data found or Invalid API configuration
+===========================================
+Product ID : 278
+Product Name : Patagonia Womens Crosstrek Fleece Jacket (L)
+No data found or Invalid API configuration
+===========================================
+Product ID : 279
+Product Name : Patagonia Sidesend Insulated Parka (Large, Nouveau Green)
+No data found or Invalid API configuration
+===========================================
+Product ID : 280
+Product Name : Patagonia Downtown Loft Down Jacket - Womens (X-Large, oxblood red)
+Status :  Image updated
+===========================================
+Product ID : 281
+Product Name : The North Face Womens Osito 2 Jacket - Vintage White - XS
+Status : No Update
+===========================================
+Product ID : 282
+Product Name : The North Face Womens Metropolis Parka II - TNF Black/Foil Grey - XXL
+Status : No Update
+===========================================
+Product ID : 283
+Product Name : The North Face womens OSO HOODIE NF0A2TEBJK3_L - TNF BLACK
+No data found or Invalid API configuration
+===========================================
+Product ID : 284
+Product Name : The North Face Womens Venture 2 Jacket Black (Medium)
+No data found or Invalid API configuration
+===========================================
+Product ID : 285
+Product Name : The North Face Womens Apex Elevation Jacket - TNF Black/TNF Black - M
+No data found or Invalid API configuration
+===========================================
+Product ID : 286
+Product Name : The North Face Womens Resolve 2 Jacket - Provincial Blue - S
+No data found or Invalid API configuration
+===========================================
+Product ID : 287
+Product Name : The North Face Womens Aconcagua Jacket - TNF Black Disrupt Camo - S
+No data found or Invalid API configuration
+===========================================
+Product ID : 288
+Product Name : The North Face Womens Mossbud Swirl Triclimate Jacket - Dark Eggplant Purple/Black Plum - S
+No data found or Invalid API configuration
+===========================================
+Product ID : 289
+Product Name : The North Face Womens Glacier 1/4 Zip - Harbor Blue Heather - S
+No data found or Invalid API configuration
+===========================================
+Product ID : 290
+Product Name : The North Face Womens Aconcagua Parka - Asphalt Grey - L
+No data found or Invalid API configuration
+===========================================
+Product ID : 291
+Product Name : The North Face Mens Resolve 2 Jacket - TNF Black/TNF Black - M
+Status :  Price updated
+===========================================
+Product ID : 292
+Product Name : The North Face Mens Apex Bionic 2 Jacket - TNF Black - L
+Status :  Price updated
+===========================================
+Product ID : 293
+Product Name : The North Face Thermoball Full Zip Jacket Mens Duck Green Small
+Status : No Update
+===========================================
+Product ID : 294
+Product Name : The North Face TKA Glacier 1/4 Zip - Centennial Red - 3XL
+No data found or Invalid API configuration
+===========================================
+Product ID : 295
+Product Name : The North Face Mens Venture 2 Jacket (X-Large, Asphalt Grey/Falcon Brown)
+No data found or Invalid API configuration
+===========================================
+Product ID : 296
+Product Name : The North Face mens ARROWOOD TRICLIMATE JACKET NF0A2TCN7D6_M - BURNT OLIVE GREEN
+No data found or Invalid API configuration
+===========================================
+Product ID : 297
+Product Name : The North Face Mens Aconcagua Jacket - Golden Brown - XXL
+No data found or Invalid API configuration
+===========================================
+Product ID : 298
+Product Name : The North Face Apex Flex GTX Jacket Men (Large, TNF Black/Centennial Red)
+No data found or Invalid API configuration
+===========================================
+Product ID : 299
+Product Name : The North Face Resolve Jacket Mens Sequoia Red/Asphalt Grey Large
+No data found or Invalid API configuration
+===========================================
+Product ID : 300
+Product Name : Samsung Electronics UN32M5300AFXZA Flat 32 LED 1920 x 1080p 5 Series SmartTV 2017
+No data found or Invalid API configuration
+===========================================
+Product ID : 301
+Product Name : Sony KD55X720E 55-Inch 4k Ultra HD Smart LED TV (2017 Model)
+Status :  Price updated
+===========================================
+Product ID : 302
+Product Name : Sony XBR-43X800E 43-Inch 4K Ultra HD Smart LED TV (2017 Model)
+Status : No Update
+===========================================
+Product ID : 303
+Product Name : Sony XBR55X850D 55-Inch 4K Ultra HD Smart TV (2016 model)
+No data found or Invalid API configuration
+===========================================
+Product ID : 310
+Product Name : Apple iPad mini 4 (128GB, Wi-Fi, Space Gray)
+Status :  Price updated
+===========================================
+Product ID : 311
+Product Name : Apple Wireless Keyboard with Bluetooth - Compatible with Mac Computers, iPad, Apple TV, and iPhone.
+Status :  Price updated
+===========================================
+Product ID : 312
+Product Name : Apple Watch Nike+ 38mm Silver Aluminum Case Pure Platinum/White Nike Sport Band
+No data found or Invalid API configuration
+===========================================
+Product ID : 313
+Product Name : Garmin Approach S20 Golf Watch - Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 314
+Product Name : Garmin Approach S6, Dark
+Status :  Price, Image updated
+===========================================
+Product ID : 315
+Product Name : Garmin Approach S4 GPS Golf Watch - White
+No data found or Invalid API configuration
+===========================================
+Product ID : 316
+Product Name : Garmin Approach S20 Golf Watch - Midnight Teal
+No data found or Invalid API configuration
+===========================================
+Product ID : 317
+Product Name : Garmin Approach S60 GPS golf watch with black silicone band
+Status :  Price updated
+===========================================
+Product ID : 318
+Product Name : Garmin Approach S2 GPS Golf Watch with Worldwide Courses (Black)
+No data found or Invalid API configuration
+===========================================
+Product ID : 319
+Product Name : Bose QuietComfort 35 (Series I) Wireless Headphones, Noise Cancelling - Silver
+No data found or Invalid API configuration
+===========================================
+Product ID : 320
+Product Name : Bose QuietComfort 25 Acoustic Noise Cancelling Headphones for Apple devices - Black (wired, 3.5mm)
+No data found or Invalid API configuration
+===========================================
+Product ID : 321
+Product Name : Bose QuietComfort 20 Acoustic Noise Cancelling Headphones, Apple Devices, Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 322
+Product Name : Bose SoundTrue around-ear headphones II - Apple devices, Charcoal
+No data found or Invalid API configuration
+===========================================
+Product ID : 323
+Product Name : Bose Quietcontrol 30 Wireless Headphones, Noise Cancelling - Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 324
+Product Name : Kate Spade Laurel Way Neda Zip Around Wallet, Antilesbubble
+No data found or Invalid API configuration
+===========================================
+Product ID : 325
+Product Name : Kate Spade Stacy Newbury Lane Wallet (Geranium)
+Status :  Price updated
+===========================================
+Product ID : 326
+Product Name : Kate Spade New York Tellie Grove Street Embossed Leather Wallet (Black)
+Status : No Update
+===========================================
+Product ID : 327
+Product Name : Kate Spade New York Laurel Way Neda Saffiano Leather Zip Around Wallet (Black)
+Status :  Price updated
+===========================================
+Product ID : 328
+Product Name : Kate Spade New York Henderson Street Nisha Wallet, Black
+Status :  Price, Image updated
+===========================================
+Product ID : 329
+Product Name : Kate Spade New York Chester Street Neda Pebbled Leather Zip Around Wallet (Black)
+No data found or Invalid API configuration
+===========================================
+Product ID : 330
+Product Name : Kate Spade New York Laurel Way Stacy wallet Crab Red
+No data found or Invalid API configuration
+===========================================
+Product ID : 331
+Product Name : Kate Spade New York Womens Glitter Clear Phone Case for iPhone 6 Gold Cellphone Case
+Status : No Update
+===========================================
+Product ID : 332
+Product Name : Kate Spade New York Womens Bonjour Phone Case for iPhone 7 Plus Clear Multi Cellphone Case
+No data found or Invalid API configuration
+===========================================
+Product ID : 333
+Product Name : Kate Spade New York Womens Le Pavillion Phone Case for iPhone 7 Plus Clear Multi Cellphone Case
+No data found or Invalid API configuration
+===========================================
+Product ID : 334
+Product Name : Kate Spade New York Womens Larabee Dot Mini Stud Phone Case for iPhone 7 Cream Multi Cellphone Case
+No data found or Invalid API configuration
+===========================================
+Product ID : 335
+Product Name : Kate Spade New York Womens Charmine/S Havana Pink/Brown Gradient Lens Sunglasses
+Status : No Update
+===========================================
+Product ID : 336
+Product Name : Kate Spade Womens Jenae/Ps Polarized Square Sunglasses, Blue Black/Gray Polarized, 53 mm
+Status : No Update
+===========================================
+Product ID : 337
+Product Name : Kate Spade Womens Julieanna Wayfarer Sunglasses, Pink Gold/Gray Gradient, 54 mm
+No data found or Invalid API configuration
+===========================================
+Product ID : 338
+Product Name : Kate Spade New York Womens Lamonica/S Havana Gold/Brown Gradient Lens Sunglasses
+Status :  Price, Image updated
+===========================================
+Product ID : 339
+Product Name : Kate Spade Womens Genice/s Oval Sunglasses, Black Gold/Gray Gradient, 57 mm
+No data found or Invalid API configuration
+===========================================
+Product ID : 340
+Product Name : Kate Spade Womens Darilynn Square Sunglasses, Yellow Havana Beige/Brown Gradient, 58 mm
+No data found or Invalid API configuration
+===========================================
+Product ID : 341
+Product Name : Kate Spade Womens Genice/s Oval Sunglasses, Pink Gold/Brown Pink Gradient, 57 mm
+No data found or Invalid API configuration
+===========================================
+Product ID : 342
+Product Name : kate spade new york Small Square Multi-Stud Earrings
+No data found or Invalid API configuration
+===========================================
+Product ID : 343
+Product Name : kate spade new york Essentials Jet Small Square Studs
+No data found or Invalid API configuration
+===========================================
+Product ID : 344
+Product Name : kate spade new york Clear/Silver Drop Earrings
+No data found or Invalid API configuration
+===========================================
+Product ID : 345
+Product Name : kate spade new york Small Square Leverback Gold Glitter Drop Earrings
+No data found or Invalid API configuration
+===========================================
+Product ID : 346
+Product Name : kate spade new york Gold Drop Earrings
+Status : No Update
+===========================================
+Product ID : 347
+Product Name : kate spade new york Rose Gold Stud Earrings
+Status : No Update
+===========================================
+Product ID : 348
+Product Name : kate spade new york Small Red Stud Earrings
+Status :  Price updated
+===========================================
+Product ID : 349
+Product Name : kate spade new york Flower White Stud Earrings
+No data found or Invalid API configuration
+===========================================
+Product ID : 350
+Product Name : kate spade new york Drop Cream Stud Earrings
+No data found or Invalid API configuration
+===========================================
+Product ID : 351
+Product Name : RAY-BAN RB 3025 AVIATOR SUNGLASSES (58 mm, 003/3F SILVER CRYSTAL WHITE/GRADIENT BLUE)
+No data found or Invalid API configuration
+===========================================
+Product ID : 352
+Product Name : Ray-Ban Unisex RB4175 Oversized Clubmaster 57mm Black/Polarized Blue Green Gradient Sunglasses
+No data found or Invalid API configuration
+===========================================
+Product ID : 353
+Product Name : Ray-Ban RB2132 New Wayfarer Sunglasses Unisex (Matte Black Frame Solid Black G15 Lens, 52)
+No data found or Invalid API configuration
+===========================================
+Product ID : 354
+Product Name : Ray-Ban Mens RB3183 Sunglasses (Shiny Black Frame Polarized Solid Black Lens, Shiny Black Frame Polarized Solid Black Lens)
+No data found or Invalid API configuration
+===========================================
+Product ID : 355
+Product Name : Ray-Ban JUSTIN - RUBBER BLACK Frame LIGHT BROWN MIRROR GOLD Lenses 55mm Non-Polarized
+No data found or Invalid API configuration
+===========================================
+Product ID : 356
+Product Name : Ray-Ban Mens RB3498 Rectangular Sunglasses, Black & Green, 61 mm
+No data found or Invalid API configuration
+===========================================
+Product ID : 357
+Product Name : Ray-Ban RB4165 JUSTIN COLOR MIX 55mm Black Rubber Red Mirror Sunglasses, 55mm
+Status :  Price, Image updated
+===========================================
+Product ID : 358
+Product Name : Tory Burch Womens 0TY9048 Black/Silver/Grey Gradient Sunglasses
+Status :  Price, Image updated
+===========================================
+Product ID : 359
+Product Name : Tory Burch Womens 0TY9050 Dark Tortoise/Gold Metail Details/Brown Gradient Sunglasses
+Status : No Update
+===========================================
+Product ID : 360
+Product Name : Tory Burch Womens 0TY6057 Gold/Dark Brown Gradient Sunglasses
+Status :  Price updated
+===========================================
+Product ID : 361
+Product Name : Tory Burch Womens 0TY9047 Royal Navy/Pearl Navy Tortoise/Blue Grey Gradient Sunglasses
+Status :  Price, Image updated
+===========================================
+Product ID : 362
+Product Name : Tory Burch Womens 0TY7108 56mm Olive Horn/Green Clear Gradient Sunglasses
+No data found or Invalid API configuration
+===========================================
+Product ID : 363
+Product Name : Tory Burch Womens 0TY7105 53mm Navy/Blue Double Bridge/Solid Light Blue Sunglasses
+No data found or Invalid API configuration
+===========================================
+Product ID : 364
+Product Name : Tory Burch Womens 0TY7087 Pearl Tokyo Tort/Green Gradient Sunglasses
+Status :  Price updated
+===========================================
+Product ID : 365
+Product Name : Tory Burch Womens 0TY7083 Bordeaux/Burgundy Gradient Sunglasses
+No data found or Invalid API configuration
+===========================================
+Product ID : 366
+Product Name : Echo Dot (2nd Generation) - Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 367
+Product Name : Echo Show - Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 368
+Product Name : Alexa Voice Remote for Amazon Echo and Echo Dot
+No data found or Invalid API configuration
+===========================================
+Product ID : 369
+Product Name : Amazon Echo Dot Case (fits Echo Dot 2nd Generation only) - Indigo Fabric
+No data found or Invalid API configuration
+===========================================
+Product ID : 370
+Product Name : Fitbit Charge 2 Heart Rate + Fitness Wristband, Black, Large (US Version)
+No data found or Invalid API configuration
+===========================================
+Product ID : 371
+Product Name : Fitbit Flex 2, Black (US Version)
+No data found or Invalid API configuration
+===========================================
+Product ID : 372
+Product Name : Fitbit Blaze Smart Fitness Watch, Black, Silver, Large (US Version)
+No data found or Invalid API configuration
+===========================================
+Product ID : 373
+Product Name : Fitbit Ionic Smartwatch, Charcoal/Smoke Gray, One Size (S & L Bands Included)
+No data found or Invalid API configuration
+===========================================
+Product ID : 374
+Product Name : Fitbit Zip Wireless Activity Tracker, Charcoal
+No data found or Invalid API configuration
+===========================================
+Product ID : 375
+Product Name : Fitbit Surge Fitness Superwatch, Black, Large (US Version)
+Status :  Price updated
+===========================================
+Product ID : 376
+Product Name : Fitbit One Wireless Activity Plus Sleep Tracker, Black
+Status : No Update
+===========================================
+Product ID : 377
+Product Name : Bose SoundLink Revolve Portable Bluetooth 360 Speaker, Triple Black
+Status : No Update
+===========================================
+Product ID : 378
+Product Name : PlayStation 4 Pro 1TB Console
+No data found or Invalid API configuration
+===========================================
+Product ID : 379
+Product Name : PlayStation 4 Pro 1TB Limited Edition Console - Destiny 2 Bundle
+No data found or Invalid API configuration
+===========================================
+=================== Completed ====================.

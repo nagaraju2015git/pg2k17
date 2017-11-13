@@ -1,0 +1,20 @@
+1.Download files from git
+2.Install LAMP
+3.Copy all the files /var/www/html/
+4.run the Db Script on the Mysql db
+5.whatever password is given to the schema has to be changed in the applications/config/database.php file.
+6.Replace base_url in applications/config/config.php with 'http://www.painlessgift.com/'
+
+Facebook Settings
+-----------------
+1.Replace fb_app_id in applications/config/config.php(375) with production facebook app id
+2.Replace fb_secret_id in applications/config/config.php(376) with production facebook secret id
+
+Email settings
+--------------
+1.Replace admin_email in /applications/config/config.php(370) with production email
+2.Update email settings in /applications/config/email.php
+
+Note:- If you want to change google analytics,Change it in applications/views/templates/header.php
+
+

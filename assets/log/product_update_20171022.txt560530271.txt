@@ -1,0 +1,50 @@
+Products updation started...
+User :  
+User ID : 41
+Date : 22 Oct 2017 07:37 AM
+===========================================
+Product ID : 110
+Product Name : DL1961 Mens Duke Slim Fit Chino, Aster, 31
+Status : No Update
+===========================================
+Product ID : 210
+Product Name : Vans Mens Atwood (Canvas) White/White Skate Shoe 9.5 Men US
+Status :  Price updated
+===========================================
+Product ID : 235
+Product Name : Splendid Womens Bailey Sweater, Black, XS
+No data found or Invalid API configuration
+===========================================
+Product ID : 278
+Product Name : Patagonia Womens Crosstrek Fleece Jacket (L)
+No data found or Invalid API configuration
+===========================================
+Product ID : 312
+Product Name : Apple Watch Nike+ 38mm Silver Aluminum Case Pure Platinum/White Nike Sport Band
+No data found or Invalid API configuration
+===========================================
+Product ID : 315
+Product Name : Garmin Approach S4 GPS Golf Watch - White
+Status : No Update
+===========================================
+Product ID : 320
+Product Name : Bose QuietComfort 25 Acoustic Noise Cancelling Headphones for Apple devices - Black (wired, 3.5mm)
+No data found or Invalid API configuration
+===========================================
+Product ID : 321
+Product Name : Bose QuietComfort 20 Acoustic Noise Cancelling Headphones, Apple Devices, Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 361
+Product Name : Tory Burch Womens 0TY9047 Royal Navy/Pearl Navy Tortoise/Blue Grey Gradient Sunglasses
+No data found or Invalid API configuration
+===========================================
+Product ID : 364
+Product Name : Tory Burch Womens 0TY7087 Pearl Tokyo Tort/Green Gradient Sunglasses
+No data found or Invalid API configuration
+===========================================
+Product ID : 370
+Product Name : Fitbit Charge 2 Heart Rate + Fitness Wristband, Black, Large (US Version)
+Status :  Price updated
+===========================================
+=================== Completed ====================.

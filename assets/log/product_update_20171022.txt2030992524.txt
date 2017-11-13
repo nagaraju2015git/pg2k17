@@ -1,0 +1,114 @@
+Products updation started...
+User :  
+User ID : 41
+Date : 22 Oct 2017 07:37 AM
+===========================================
+Product ID : 80
+Product Name : PAIGE Womens Skyline Ankle Peg Jeans with Uneven Hem, Pryor Destructed, 31
+Status : No Update
+===========================================
+Product ID : 110
+Product Name : DL1961 Mens Duke Slim Fit Chino, Aster, 31
+No data found or Invalid API configuration
+===========================================
+Product ID : 147
+Product Name : Fossil Mens FS4552 Machine Black Stainless Steel Chronograph Watch
+No data found or Invalid API configuration
+===========================================
+Product ID : 189
+Product Name : New Balance Mens 1400 Classic Running Shoe (8 D(M) US, Black/Burgundy)
+Status : No Update
+===========================================
+Product ID : 191
+Product Name : New Balance M770 Version 2 Mens Running Shoe, Size: 10 Width: 2E Color: Admiral Red/Black
+Status : No Update
+===========================================
+Product ID : 210
+Product Name : Vans Mens Atwood (Canvas) White/White Skate Shoe 9.5 Men US
+No data found or Invalid API configuration
+===========================================
+Product ID : 218
+Product Name : Splendid Womens Classic Pajama Set, Tropical Fleur, Small
+Status : No Update
+===========================================
+Product ID : 229
+Product Name : Splendid Womens Ss Slub V Neck with Ruffle, Heritage Blue, M
+Status : No Update
+===========================================
+Product ID : 235
+Product Name : Splendid Womens Bailey Sweater, Black, XS
+No data found or Invalid API configuration
+===========================================
+Product ID : 242
+Product Name : Splendid Womens Rayon 2 x 1 Rib Cross Back Dress, Black, M
+Status :  Price updated
+===========================================
+Product ID : 274
+Product Name : Patagonia womens Downtown Jacket (L, Pebble Gray)
+No data found or Invalid API configuration
+===========================================
+Product ID : 277
+Product Name : Patagonia Womens Down Sweater Jacket (Medium, Feather Grey)
+No data found or Invalid API configuration
+===========================================
+Product ID : 278
+Product Name : Patagonia Womens Crosstrek Fleece Jacket (L)
+No data found or Invalid API configuration
+===========================================
+Product ID : 294
+Product Name : The North Face TKA Glacier 1/4 Zip - Centennial Red - 3XL
+No data found or Invalid API configuration
+===========================================
+Product ID : 295
+Product Name : The North Face Mens Venture 2 Jacket (X-Large, Asphalt Grey/Falcon Brown)
+Status : No Update
+===========================================
+Product ID : 312
+Product Name : Apple Watch Nike+ 38mm Silver Aluminum Case Pure Platinum/White Nike Sport Band
+No data found or Invalid API configuration
+===========================================
+Product ID : 315
+Product Name : Garmin Approach S4 GPS Golf Watch - White
+No data found or Invalid API configuration
+===========================================
+Product ID : 317
+Product Name : Garmin Approach S60 GPS golf watch with black silicone band
+Status : No Update
+===========================================
+Product ID : 319
+Product Name : Bose QuietComfort 35 (Series I) Wireless Headphones, Noise Cancelling - Silver
+Status :  Price updated
+===========================================
+Product ID : 320
+Product Name : Bose QuietComfort 25 Acoustic Noise Cancelling Headphones for Apple devices - Black (wired, 3.5mm)
+No data found or Invalid API configuration
+===========================================
+Product ID : 321
+Product Name : Bose QuietComfort 20 Acoustic Noise Cancelling Headphones, Apple Devices, Black
+No data found or Invalid API configuration
+===========================================
+Product ID : 325
+Product Name : Kate Spade Stacy Newbury Lane Wallet (Geranium)
+Status : No Update
+===========================================
+Product ID : 349
+Product Name : kate spade new york Flower White Stud Earrings
+Status : No Update
+===========================================
+Product ID : 350
+Product Name : kate spade new york Drop Cream Stud Earrings
+Status : No Update
+===========================================
+Product ID : 361
+Product Name : Tory Burch Womens 0TY9047 Royal Navy/Pearl Navy Tortoise/Blue Grey Gradient Sunglasses
+No data found or Invalid API configuration
+===========================================
+Product ID : 364
+Product Name : Tory Burch Womens 0TY7087 Pearl Tokyo Tort/Green Gradient Sunglasses
+No data found or Invalid API configuration
+===========================================
+Product ID : 370
+Product Name : Fitbit Charge 2 Heart Rate + Fitness Wristband, Black, Large (US Version)
+No data found or Invalid API configuration
+===========================================
+=================== Completed ====================.

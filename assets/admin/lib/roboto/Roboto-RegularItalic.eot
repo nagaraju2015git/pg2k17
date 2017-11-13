@@ -1,0 +1,614 @@
+
+<!DOCTYPE HTML>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<title>
+    Page Not Found - Foxy Themes</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+
+<link rel="pingback" href="http://foxythemes.net/xmlrpc.php" />
+
+<link rel="shortcut icon" href="https://foxythemes.net/wp-content/uploads/2014/10/foxy_fav.png" />
+
+<script src="//use.typekit.net/hud2mnz.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+<style type="text/css">
+     </style>
+
+
+
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1367794263260964&ev=PageView&noscript=1"
+/></noscript>
+
+
+<!-- This site is optimized with the Yoast SEO plugin v3.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Page Not Found - Foxy Themes</title>
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found - Foxy Themes" />
+<meta property="og:site_name" content="Foxy Themes" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Foxy Themes &raquo; Feed" href="https://foxythemes.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Foxy Themes &raquo; Comments Feed" href="https://foxythemes.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/foxythemes.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='creativ_shortcodes-css'  href='http://foxythemes.net/wp-content/plugins/creativ-shortcodes//includes/shortcodes.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='creativ_shortcodes_fontawesome-css'  href='http://foxythemes.net/wp-content/plugins/creativ-shortcodes//fonts/fontawesome/css/font-awesome.min.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='creativ_shortcodes_fontello-css'  href='http://foxythemes.net/wp-content/plugins/creativ-shortcodes//fonts/fontello/css/fontello.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tws-opensans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&#038;ver=1.0' type='text/css' media='' />
+<link rel='stylesheet' id='tws-montserrat-css'  href='http://fonts.googleapis.com/css?family=Montserrat%3A400%2C700&#038;ver=1.0' type='text/css' media='' />
+<link rel='stylesheet' id='bbp-default-css'  href='http://foxythemes.net/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.10-6063' type='text/css' media='screen' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://foxythemes.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='edd-styles-css'  href='http://foxythemes.net/wp-content/plugins/easy-digital-downloads/templates/edd.min.css?ver=2.6.10' type='text/css' media='all' />
+<link rel='stylesheet' id='foxythemes-css'  href='http://foxythemes.net/wp-content/plugins/foxythemes/public/css/foxythemes-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-swipebox-css'  href='http://foxythemes.net/wp-content/plugins/responsive-lightbox/assets/swipebox/css/swipebox.min.css?ver=1.6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://foxythemes.net/wp-content/themes/foxythemes-marketplace/style.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='foxy_theme_style-css'  href='http://foxythemes.net/wp-content/themes/foxythemes-marketplace/assets/css/style.css?ver=1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://foxythemes.net/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/plugins/creativ-shortcodes//includes/shortcodes.js?ver=4.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var edd_scripts = {"ajaxurl":"https:\/\/foxythemes.net\/wp-admin\/admin-ajax.php","position_in_cart":"","has_purchase_links":"","already_in_cart_message":"You have already added this item to your cart","empty_cart_message":"Your cart is empty","loading":"Loading","select_option":"Please select an option","ajax_loader":"\/wp-content\/plugins\/easy-digital-downloads\/assets\/images\/loading.gif","is_checkout":"0","default_gateway":"paypal","redirect_to_checkout":"1","checkout_page":"https:\/\/foxythemes.net\/checkout\/","permalinks":"1","quantities_enabled":"","taxes_enabled":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/plugins/easy-digital-downloads/assets/js/edd-ajax.min.js?ver=2.6.10'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/plugins/foxythemes/public/js/foxythemes-public.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/plugins/responsive-lightbox/assets/swipebox/js/jquery.swipebox.min.js?ver=1.6.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/plugins/responsive-lightbox/js/front.js?ver=1.6.9'></script>
+<link rel='https://api.w.org/' href='https://foxythemes.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://foxythemes.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://foxythemes.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.1" />
+<meta name="generator" content="Easy Digital Downloads v2.6.10" />
+<meta name="generator" content="EDD FES v2.2.9.9.1" />
+
+</head>
+
+<body class="error404">
+    
+
+
+
+<style type="text/css">
+    
+        
+    #header_wrapper, .breadcrumb_wrapper, .page_wrap, .page_wrap_home, #footer_widget_wrapper, #footer_wrapper {
+        max-width:100%;
+    }
+    
+        
+    body {
+    background-image:url("");
+    background-repeat:;
+    background-color:#f6f6f6;
+    }
+    
+    hr {
+    border-bottom:2px solid #f6f6f6;
+    } 
+    
+    .lined {
+        border-bottom:2px solid #f6f6f6;
+    }
+    
+    #isa-related-downloads, #fes-comments-table {
+    border-top:2px solid #f6f6f6;
+    } 
+    
+    .cr3ativstaff_employee_info {
+    border-bottom:1px solid #f6f6f6 !important;
+    border-top:1px solid #f6f6f6 !important;
+    }
+    
+    .left_content_EDD [itemprop="description"] h5, .left_content_EDD [itemprop="description"] h4, .left_content_EDD [itemprop="description"] h3, .left_content_EDD [itemprop="description"] h2, .left_content_EDD [itemprop="description"] h1 {
+        border-bottom:2px solid #f6f6f6 !important;
+    }
+    
+    body .creativ-shortcode-toggle-active, body .creativ-shortcode-toggle .creativ-shortcode-toggle-content, body .creativ-shortcode-tab-buttons a.active, body .creativ-shortcode-tab-buttons a {
+        border-color: #f6f6f6 !important;
+    }
+    
+    body .creativ-shortcode-tabpane {
+    border:1px solid #f6f6f6;
+    }
+    
+    .posted_details {
+    border-top:1px solid #f6f6f6;
+    }
+    
+    .table-striped > tbody > tr:nth-child(odd) > td, .table-striped > tbody > tr:nth-child(odd) > th, .table-hover > tbody > tr:hover > td, .table-hover > tbody > tr:hover > th, .post_format, a.comment-reply-link, .edd_downloads, .EDD_Featured_Image, .preview_button, .EDD-thumb-details, #cr3ativeportfolio_portfolio-filter, #isa-related-downloads li, .pricetable-header, .edd-review-vote, .edd_comment_wrapper_main, .left_content_EDD .gallery, .circle {
+    background-color:#f6f6f6;
+    }
+    
+    .owl-theme .owl-controls .owl-page span {
+        border: 1px solid #292929 !important;
+    }
+
+    #cr3ativeportfolio_portfolio-filter li a.current, #cr3ativeportfolio_portfolio-filter li a:hover {
+    background-color:#292929;
+    }
+    
+    .recents_title h2 a:hover, .recents_meta_date p, .recents_meta_comments p, .recents_meta_comments a, .right_content .search input[type=text]:focus, .right_content .search input[type=submit]:hover, .search input[type=submit]:hover, .breadcrumbs, textarea:focus, input[type=text]:focus, input[type=email]:focus, input[type=url]:focus, input[type=password]:focus, input[type=tel]:focus, input[type=submit]:hover, h2 a:hover, h2.linkpost a:hover, .comment_title, .comment-author, #respond h3, .cr3ativstaff_employee_name a:hover, .cr3ativcareer_blog_wrapper h5 a:hover, .cr3ativcareer_post_read_more a:hover, .cr3ativcareer_widget li h3 a:hover, .fes-submit input.edd-submit.button:hover, button[type="submit"]:hover {
+    color:#292929;
+    }
+    
+    .search input[type=text]:focus, .search input[type=submit]:hover {
+    border:3px solid #292929;
+    }
+
+    .form-allowed-tags, .right_content .search input[type=text], textarea, input[type=text], input[type=email], input[type=url], input[type=password], input[type=tel], #bottom_menu ul li a, .copyright, .post_format, .meta_date, .single_meta, .posted_details, cite, a.comment-reply-link, .cr3ativstaff_employee_title, .nav li a, .nav li.current-menu-item li a, .nav li.current-menu-parent li a, #isa-edd-specs caption, .EDD-Author p, .EDD_Featured_Image p, li.cr3ativeportfolio_filter, .item_count, .small_tagline {
+    color:#AFB2B6;
+    }
+    
+    .table-bordered > thead > tr > th, .table-bordered > tbody > tr > th, .table-bordered > tbody > tr > td, .pricetable-column-inner {
+    border: 1px solid #AFB2B6 !important;
+    }
+    
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    border-top:1px solid #AFB2B6;
+    }
+    
+    .table > tbody + tbody {
+    border-top:2px solid #AFB2B6;
+    }
+    
+    .recents_title h2, .recents_title h2 a, .right_content .search input[type=submit], .breadcrumbs a, a#trigger-overlay, input[type=submit], #footer_widget p, #footer_widget a, #bottom_menu ul li a:hover, .search input[type=submit], .paginationprev a, .paginationnext a, blockquote p, h2.linkpost a, a.comment-reply-link:hover, .edd-submit.button, .edd-submit.button.gray, .edd-submit.button:visited, .edd-submit.button:hover, .edd-submit.button.gray:hover, .edd-submit.button:visited:hover, #edd-purchase-button:hover, .edd-submit:hover, input.edd-submit[type=submit]:focus, li.edd_download_file a, .nav li.current-menu-item a, .nav li a:hover, .nav li.current-menu-item li a:hover, .nav li.current-menu-parent a, .nav li.current-menu-parent li.current-menu-item a, .nav li.current-menu-parent li a:hover, .right_content li.cart_item.edd_checkout a, .wpmenucart-icon-shopping-cart-0:before, ul#menu-shopping-cart li a, .right_content .edd_price_option_name, .right_content .edd_price_option_price, .more-link-hidden, .more-link-hidden:hover, .more-link-hidden:focus, .more-link-hidden:active, .wp-playlist-caption .wp-playlist-item-title, .wp-playlist-item-album, .wp-playlist-item-artist, .pricetable .pricetable-column.pricetable-featured:before, .pricetable .pricetable-button-container a, .pricetable-featured .pricetable-button-container a:hover, .pricetable .pricetable-button-container a:hover, .edd-reviews-voting-buttons a, .edd-reviews-voting-buttons a:hover, .search_title, .fes-submit input.edd-submit.button,.fes-form-error.fes-error, .fes-vendor-menu ul li a, #fes-view-comment a, #fes-view-comment a:hover, button[type="submit"], #fes-vendor-announcements, a.view-product-fes, a.edit-product-fes, .page-numbers, .page-numbers:hover, .page-numbers.current, .fes-feat-image-btn, .fes-feat-image-btn:hover, a.upload_file_button, a.upload_file_button:hover, a.btn-danger.delete, a.btn-danger.delete:hover, a.insert-file-row, a.insert-file-row:hover, a.close.fes-remove-feat-image, a.close.fes-remove-feat-image:hover, a.close.fes-remove-avatar-image, a.close.fes-remove-avatar-image:hover, .live_preview_button a, .live_preview_button a:hover {
+    color:#FFFFFF;
+    }
+    
+    p, ul, ol, ul ul, ul ol, ol ul, ol ol, table, .intro, .gallery-caption, .contentsingle .edd_price_option_name, .fes-help {
+    color:#696969;
+    }
+    
+    #footer_widget .textwidget div.wpcf7-mail-sent-ok, div.wpcf7-mail-sent-ok, .pricetable .pricetable-header p {
+    color:#696969 !important;
+    }
+    
+    h1, h2, h3, h4, h5, h6, .cr3ativeportfolio_custom_tax a, .cr3ativeportfolio_custom_tax, .edd_form legend, #isa-edd-specs td, .right_content ul.edd-cart .edd-cart-item-title, .edd_subtotal, .more-link.edd, .cr3ativeportfolio_filter, #isa-related-downloads li a, .edd_feat_image_index .caption p, .index_purchase_form .edd_download_purchase_form .edd_price_options span, .pricetable h3.pricetable-name, .pricetable h4.pricetable-price, .pricetable .pricetable-feature, .highlight, ins, body .creativ-shortcode-tab-buttons a.active, body .creativ-shortcode-tab-buttons a:hover, th.col-author, th.col-content, #fes-product-name, .fes-light-red, .fes-vendor-comment-respond-form, #fes-product-list th, .fes-label label, table.edd-fpd th, .wp-playlist-tracks .wp-playlist-item-title, .fes-submission-form strong, .largetext {
+    color:#292929;
+    }
+    
+    .right_content h4  {
+    color:#AFB2B6;
+    }
+    
+    .right_content p, .right_content, .right_content ul li, .right_content ol li, #wp-calendar {
+    color:#626262;
+    }
+    
+    .edd-cart-quantity, blockquote p:before, blockquote p:after, blockquote, blockquote p, body .creativ-shortcode-button:active, body .creativ-shortcode-button:hover, body .creativ-shortcode-button, body .creativ-shortcode-button:focus {
+        color:#FFFFFF!important;
+    }
+        
+    .menu_container, .pricetable .pricetable-column.pricetable-featured:before, #fes-vendor-announcements {
+    background-color:#f68453;
+    }
+    
+    blockquote:before {
+        border-top-color: #292929;
+    }
+
+    .popup .overlay {
+        background-color:#36c7be!important;
+    }
+    
+    .mejs-container .mejs-controls {
+    background:#36c7be!important;
+    }
+    
+    #cr3ativeportfolio_portfolio-filter li a, p.member_details_title, .circle {
+    color:#292929 !important;
+    }
+    
+    #cr3ativeportfolio_portfolio-filter li a.current, #cr3ativeportfolio_portfolio-filter li a:hover {
+    color:#FFFFFF !important;
+    }
+    
+    .quote-image {
+    background-color: #FFFFFF;
+    }
+    
+    .caption p.EDD_Price1, .caption .thumb_author_details .EDD-Author p {
+    color:#AFB2B6 !important;
+    }
+    
+    .pricetable-featured .pricetable-button-container a {
+    background-color:#36c7be;
+    }
+    
+    .wp-playlist-light .wp-playlist-playing, .wp-playlist-item:hover {
+    background-color:#f6f6f6 !important;
+    }
+    
+    *[itemprop="fileFormat"], *[itemprop="datePublished"], *[itemprop="dateModified"], *[itemprop="softwareVersion"], *[itemprop="fileSize"], *[itemprop="requirements"], #isa-edd-specs td:last-child {
+    color:#696969 !important;
+    }
+    
+    .contentsingle a.edd-wl-action, a.edd-wl-action.edd-wl-button {
+        color:#36c7be;
+        border:2px solid #36c7be !important;
+    }
+    
+    .contentsingle a.edd-wl-action:hover, a.edd-wl-action.edd-wl-button:hover {
+    color:#FFFFFF !important;
+        background:#36c7be !important;
+    }
+    
+    .right_content a.edd-wl-action {
+    color:#FFFFFF!important;
+        border: none !important;
+    }
+    
+    .right_content a.edd-wl-action.edd-wl-button:hover {
+    background:#FFFFFF!important;
+        color:#292929!important;
+    }
+    
+    .modal-footer a.edd-wl-button {
+    background:#36c7be !important;
+        color:#FFFFFF !important;
+        border: none !important;
+    }
+    
+    .modal-footer a.edd-wl-button:hover {
+    background:#292929!important;
+        color:#FFFFFF!important;
+        border: none !important;
+    }
+    
+    @media only screen and (max-width: 640px) {
+    
+        .cr3ativstaff_employee_info {
+            border-bottom: 0 solid transparent !important;
+            border-top: 0 solid transparent !important;
+        }
+    }
+</style>
+        <div id="header_wrapper">
+             
+             <div class="top-nav">
+                <div class="container">
+                  <div class="menu-top-menu-container"><ul id="top-menu" class="navbar-nav nav"><li id="menu-item-2607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2607"><a href="https://foxythemes.net/about/">About</a></li>
+<li id="menu-item-2584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2584"><a href="https://foxythemes.net/faq/">FAQ</a></li>
+<li id="menu-item-2518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2518"><a href="https://foxythemes.net/contact/">Contact</a></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2519"><a href="https://foxythemes.net/account/">Login</a></li>
+</ul></div>                  <div id="navbar_social_bar">
+                    
+                  </div>
+                </div>
+             </div>
+            <header>
+                <div class="top_logo">
+                    <a href="http://foxythemes.net">
+                                                <img src="https://foxythemes.net/wp-content/uploads/edd/2014/10/logo.png" alt="top logo" />
+                    </a>
+                </div>
+                <div class="container nav nav-main">
+                  <div class="menu-main-menu-container"><ul id="main-menu" class="navbar-nav"><li id="menu-item-2512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2512"><a href="https://foxythemes.net/">Home</a></li>
+<li id="menu-item-2513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2513"><a href="https://foxythemes.net/themes/">Themes</a></li>
+<li id="menu-item-2606" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2606"><a href="https://foxythemes.net/blog/">Blog</a></li>
+<li id="menu-item-2729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2729"><a href="https://foxythemes.net/support/">Support</a></li>
+</ul></div>                </div>
+                <div class="overlay overlay-hugeinc">
+                    <div class="menu_container">
+                        <button type="button" class="overlay-close">Close</button>
+                        <div class="left">
+                            <div class="nav">
+
+                                <div class="menu-main-menu-container"><ul id="demo1" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2512"><a href="https://foxythemes.net/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2513"><a href="https://foxythemes.net/themes/">Themes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2606"><a href="https://foxythemes.net/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2729"><a href="https://foxythemes.net/support/">Support</a></li>
+</ul></div>                                <div class="clearfix"></div>
+
+                            </div>
+
+                            <div class="clearfix"></div>
+
+                        </div>
+ 
+                        <div class="right">
+
+                            <div class="recents">
+
+                                
+                                
+                                <div class="recents_title">
+                                    <h2><a href="https://foxythemes.net/validate-envato-license-command-line/">Validate Envato License From Your Command Line</a></h2>
+                                    <div class="recents_meta_date">
+                                        <p>July 3, 2016</p>
+
+                                    </div>
+                                    
+                                    
+                                </div>
+                                
+                                
+                                <div class="recents_title">
+                                    <h2><a href="https://foxythemes.net/edd-google-tracking-code/">Add Google Conversion Tracking Code to Easy Digital Downloads</a></h2>
+                                    <div class="recents_meta_date">
+                                        <p>November 30, 2014</p>
+
+                                    </div>
+                                    
+                                    
+                                    <div class="recents_meta_comments">
+                                        <p>
+                                            
+                                            <a href="https://foxythemes.net/edd-google-tracking-code/#comments" class="comments-link" >15</a>
+                                            comments
+                                                                                    </p>
+
+                                    </div>
+                                    
+                                    
+                                </div>
+                                
+                                
+                                <div class="recents_title">
+                                    <h2><a href="https://foxythemes.net/discount-clean-zone-admin-template/">Get a 25% discount on Clean Zone Admin Template</a></h2>
+                                    <div class="recents_meta_date">
+                                        <p>November 22, 2014</p>
+
+                                    </div>
+                                    
+                                    
+                                </div>
+                                
+                                
+                                <div class="recents_title">
+                                    <h2><a href="https://foxythemes.net/finally-online/">We are officially online</a></h2>
+                                    <div class="recents_meta_date">
+                                        <p>November 15, 2014</p>
+
+                                    </div>
+                                    
+                                    
+                                    <div class="recents_meta_comments">
+                                        <p>
+                                            
+                                            <a href="https://foxythemes.net/finally-online/#respond" class="comments-link" >0</a>
+                                            comments
+                                                                                    </p>
+
+                                    </div>
+                                    
+                                    
+                                </div>
+                                
+                                 
+                            </div>
+
+                            <div class="search">
+
+                                <!-- Start of search -->
+<div class="search">
+
+<form role="search" method="get" id="searchform" action="https://foxythemes.net/">
+    
+            
+    <input type="text" value="" name="s" id="s" />
+    
+        <input type="hidden" name="post_type" value="post" />
+    <input type="submit" id="searchsubmit" value="Search" />
+      
+</form>
+
+</div>
+<!-- End of search -->
+        
+                            </div>
+
+                            <div class="clearfix"></div>
+                            
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="clearfix"></div>
+
+            </header>
+
+        </div>
+    <!-- Start of page wrap -->
+    <div class="page_wrap">
+
+        <!-- Start of main content -->
+        <div class="main_content">
+
+            			<div class="textwidget"><div style="text-align: center">
+<h2>Sorry! This page doesn't exist</h2>
+<img src="https://foxythemes.net/error_404.gif" alt="Error 404">
+<p>The link you followed may be broken, or the page may have been removed.</p>
+<p class="small">If you are looking for some great themes please click <a href="http://www.foxythemes.net/themes">here</a></p>
+</div></div>
+		
+        </div>
+        <!-- End of main content -->
+
+        <div class="clearfix"></div>
+
+    </div>
+    <!-- End of page wrap -->
+
+    <!-- Start of footer widget wrapper -->
+<div id="footer_widget_wrapper">
+    
+    <!-- Start of footer widget -->
+    <div id="footer_widget">
+        
+        			<div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f26-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/preview/products/beagle2/assets/lib/roboto/Roboto-RegularItalic.eot#wpcf7-f26-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="26" />
+<input type="hidden" name="_wpcf7_version" value="4.5.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f26-o1" />
+<input type="hidden" name="_wpnonce" value="bf25f4c477" />
+</div>
+<div style="text-align:center;display: inline;">
+<p>Subscribe to our free mailing list for announcements, freebies and more!</p>
+<p><span class="wpcf7-form-control-wrap user-suscription-email"><input type="email" name="user-suscription-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Enter your email address to start receiving" /></span> &nbsp; <input type="submit" value="Subscribe" class="wpcf7-form-control wpcf7-submit" /></p>
+<p><span class="wpcf7-form-control-wrap username-wrap" style="display:none !important; visibility:hidden !important;"><input class="wpcf7-form-control wpcf7-text"  type="text" name="username" value="" size="40" tabindex="-1" /><span class="hp-message">Please leave this field empty.</span></span>
+</p></div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+		    
+    </div>
+    <!-- End of footer widget -->
+    
+    <div class="clearfix"></div>
+
+</div>
+<!-- End of footer widget wrapper -->
+
+<!-- Start of footer wrapper -->
+<div id="footer_wrapper">
+
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 site-description">
+            <a href="http://foxythemes.net" class="logo">
+                                <img src="https://foxythemes.net/wp-content/uploads/edd/2014/10/logo.png" alt="bottom logo" />
+            </a>
+            <p class="description">Foxy Themes is a new alternative, we build web templates, themes and other goodies, putting a lot of love in every pixel and design quality is our policy.</p>
+          </div>
+          <div class="col-md-2">
+            <div class="widget">
+                                <h4>About</h4><div class="menu-footer-1-container"><ul id="menu-footer-1" class="menu"><li id="menu-item-2526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2526"><a href="https://foxythemes.net/">Home</a></li>
+<li id="menu-item-2527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2527"><a href="https://foxythemes.net/themes/">Themes</a></li>
+<li id="menu-item-2528" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2528"><a href="https://foxythemes.net/blog/">Blog</a></li>
+<li id="menu-item-2787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2787"><a href="https://foxythemes.net/support/">Support</a></li>
+</ul></div>                          </div>
+          </div>
+          <div class="col-md-2">
+            <div class="widget">
+                                <h4>Information</h4><div class="menu-footer-2-container"><ul id="menu-footer-2" class="menu"><li id="menu-item-2534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2534"><a href="https://foxythemes.net/contact/">Contact</a></li>
+<li id="menu-item-3975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3975"><a href="https://foxythemes.net/licenses/">License</a></li>
+<li id="menu-item-2601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2601"><a href="https://foxythemes.net/terms/">Terms</a></li>
+<li id="menu-item-2600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2600"><a href="https://foxythemes.net/privacy/">Privacy</a></li>
+</ul></div>                          </div>
+          </div>
+          <div class="col-md-2">
+            <div class="widget">
+                                <h4>Social</h4><div class="menu-footer-3-container"><ul id="menu-footer-3" class="menu"><li id="menu-item-2536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2536"><a href="https://www.facebook.com/foxythemes">Facebook</a></li>
+<li id="menu-item-2537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2537"><a href="https://twitter.com/foxypixel">Twitter</a></li>
+<li id="menu-item-2538" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2538"><a href="https://github.com/foxythemes">GitHub</a></li>
+<li id="menu-item-2539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2539"><a href="https://dribbble.com/foxythemes">Dribbble</a></li>
+</ul></div>                          </div>
+          </div>
+        </div>
+        <div class="copyright">
+                        &copy; 2016 Foxy Themes. All rights reserved.
+        </div>
+      </div>
+        
+
+    </footer>
+
+    <div class="clearfix"></div>
+
+</div>
+
+
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+      
+      prettyPrint();
+      
+      'use strict';
+        
+        // Initialize navgoco with default options
+        jQuery("#demo1").navgoco({
+            caretHtml: '',
+            accordion: false,
+            openClass: 'open',
+            save: true,
+            cookie: {
+                name: 'navgoco',
+                expires: false,
+                path: '/'
+            },
+            slide: {
+                duration: 400,
+                easing: 'swing'
+            },
+            // Add Active class to clicked menu item
+            onClickAfter: function(e, submenu) {
+                e.preventDefault();
+                jQuery('#demo1').find('li').removeClass('active');
+                var li = jQuery(this).parent();
+                var lis = li.parents('li');
+                li.addClass('active');
+                lis.addClass('active');
+            },
+        });
+    
+
+    
+    });
+</script>
+
+	    <script type="text/javascript">
+	    jQuery(document).on("DOMNodeInserted", function(){
+	        // Lock uploads to "Uploaded to this post"
+	        jQuery('select.attachment-filters [value="uploaded"]').attr( 'selected', true ).parent().trigger('change');
+	    });
+		</script>
+		<script type='text/javascript' src='http://foxythemes.net/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/foxythemes.net\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5.1'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/themes/squarecode-wp/js/jquery.easing.1.3.js?ver=1.0'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/themes/squarecode-wp/js/jquery.owlsettings.js?ver=1.0'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/themes/squarecode-wp/js/hoverIntent.js?ver=1.0'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/themes/squarecode-wp/js/jquery.validate.pack.js?ver=1.0'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/themes/squarecode-wp/js/comment-form-validation.js?ver=1.0'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/themes/squarecode-wp/js/jquery.navgoco.js?ver=1.0'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/themes/squarecode-wp/js/modernizr.custom.js?ver=1.0'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/themes/squarecode-wp/js/classie.js?ver=1.0'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/themes/foxythemes-marketplace/assets/js/bootstrap.min.js?ver=0fc6af96786d8f267c8686338a34cd38'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/themes/foxythemes-marketplace/assets/lib/prettify/prettify.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-content/themes/foxythemes-marketplace/assets/lib/prettify/lang-css.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://foxythemes.net/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+
+</body>
+
+</html>
